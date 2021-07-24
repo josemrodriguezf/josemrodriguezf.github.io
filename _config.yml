@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "José M. Rodríguez-Flores"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hydro-economics | Water-human systems | Optimization | Uncertainty"
+  bio              : "Hydro &minus economics | Water &minus human systems | Optimization | Uncertainty"
   location         : "Merced,CA"
   email            : "jrodriguezflores3@ucmerced.edu"
   links:
@@ -124,7 +124,7 @@ author:
       url: "https://github.com/joserdgz8"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      #url: "https://instagram.com/"
 
 
 # Site Footer
