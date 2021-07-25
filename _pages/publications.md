@@ -15,4 +15,4 @@ page](https://scholar.google.com/citations?user=MJpJiPsAAAAJ&hl=en)
 Selected publications
 ---------------------
 
-{% include pubpage.html %}
+
