@@ -1,0 +1,214 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wenneker Resume/CV
+% LaTeX Template
+% Version 1.1 (19/6/2016)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Frits Wenneker (http://www.howtotex.com) with extensive modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper,12pt]{memoir} % Font and paper size
+
+\input{structure.tex} % Include the file specifying document layout and packages
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION 
+%----------------------------------------------------------------------------------------
+
+\userinformation{ % Set the content that goes into the sidebar of each page
+	\begin{flushright}
+		% Comment out this figure block if you don't want a photo
+		\includegraphics[width=0.6\columnwidth]{photo.jpg}\\[\baselineskip] % Your photo
+		\small % Smaller font size
+		José M. Rodriguez\\ % Your name
+		\url{jrodriguezflores3@ucmerced.edu} \\ % Your email address
+		(209) 632 2159 \\ % Your phone number
+		\Sep % Some whitespace
+		\textbf{Address} \\
+		2347 Mariner Way\\ % Address 1
+		Merced, California 2347 \\ % Address 2
+		USA \\ % Address 3
+		\vfill % Whitespace under this block to push it up under the photo
+	\end{flushright}
+}
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\userinformation % Print your information in the left column
+
+\framebreak % End of the first column
+
+%----------------------------------------------------------------------------------------
+%	HEADING
+%----------------------------------------------------------------------------------------
+
+\cvheading{José M. Rodríguez Flores} % Large heading - your name
+
+\cvsubheading{Agricultural-Water Systems Specialist} % Subheading - your occupation/specialization
+
+%----------------------------------------------------------------------------------------
+%	ABOUT ME
+%----------------------------------------------------------------------------------------
+
+\aboutme{About Me}{Agricultural Economist and Ph.d Student Researcher at University of California, Merced. Specialist in water economics and hydro-economic models. Previous research in México and currently working in the agricultural-water system in California, US. Research on the economic impacts in agriculture of groundwater policies, using multi-objective optimization models. Robustness analysis in the coupled agricultural  production-water system.}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\CVSection{Education}
+
+%------------------------------------------------
+
+\CVItem{2011 - 2015, Universidad Autónoma Chapingo, México}{BS.c in Agricultural Economics}
+
+%------------------------------------------------
+
+\CVItem{2016 - 2018, Colegio de Postgraduados, México}{Ms.c in Agricultural Economics}
+
+%-----------------------------------------------
+\CVItem{2019 - present, University of California, Merced}{Ph.d in Environmental Systems}
+%------------------------------------------------
+
+\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\CVSection{Experience}
+
+%------------------------------------------------
+
+\CVItem{February-April,2015}\textit{Research Intership}, {Oklahoma State University}
+Detailed achievements:
+\begin{itemize}
+	\item Project: Social Responsible Companies and consumer decisions
+	\item Courses on: 
+	\begin{itemize}
+		\item Big Data
+		\item Corporate Social Responsibility
+	\end{itemize}
+\end{itemize}
+
+
+\CVItem{2019 - present, \textit{Graduate Student Researcher}, UC Merced}{
+	Projects:
+	\begin{itemize}
+		\item Multi-objective optimization model of Kern County, California, for the Sustainable Groundwater Management Act analysis.
+		\item Agricultural Production Model of the Sacramento-San Joaquin Delta.
+		\item Social study of water scarcity and groundwater management policies in the Central Valley, California.
+		\begin{itemize}
+			\item Modeling development using Python.
+			\item Economic analysis of groundwater policy.
+		\end{itemize}
+	\end{itemize}
+}
+%------------------------------------------------
+
+%\CVItem{Jan 2008 - Oct 2012, \textit{Computer Repair Specialist}, Buy More}{Worked in the Nerd Herd and helped to solve computer problems by asking customers to turn their computers off and on again.}
+
+%------------------------------------------------
+
+\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS
+%----------------------------------------------------------------------------------------
+
+\CVSection{Publications}
+
+%------------------------------------------------
+
+\CVItem{2019, \textit{Journal Article}}{Rodríguez-Flores, J.M.; Medellín-Azuara, J.; Valdivia-Alcalá, R.; Arana-Coronado, O.A.; García-Sánchez, R.C. Insights from a Calibrated Optimization Model for Irrigated Agriculture under Drought in an Irrigation District on the Central Mexican High Plains. Water 2019, 11, 858.}
+
+%------------------------------------------------
+%------------------------------------------------
+
+%\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+%	SKILLS
+%----------------------------------------------------------------------------------------
+
+\CVSection{Software Skills}
+
+%------------------------------------------------
+
+\CVItem{Programming}
+{\begin{tabular}{p{0.2\textwidth} p{0.2\textwidth} p{0.2\textwidth}}
+\bluebullet Matlab &  \bluebullet R & \bluebullet Python\\
+\bluebullet GAMS &  
+\end{tabular}}
+
+%------------------------------------------------
+
+
+
+%------------------------------------------------
+
+\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+%	NEW PAGE DELIMITER
+%	Place this block wherever you would like the content of your CV to go onto the next page
+%----------------------------------------------------------------------------------------
+
+\clearpage % Start a new page
+
+\userinformation % Print your information in the left column
+
+\framebreak % End of the first column
+
+%----------------------------------------------------------------------------------------
+%	AWARDS
+%----------------------------------------------------------------------------------------
+
+\CVSection{Awards}
+
+%------------------------------------------------
+
+\CVItem{2015, \textit{Graduate with honors}, Universidad Autonoma Chapingo}{ Bachelors degree.}
+
+\CVItem{2016-2018, \textit{Graduate Scholarship}, National Science and Technology Council of México}{Conacyt}
+
+\CVItem{2019-present, \textit{Graduate Scholarship for Ph.d}}{UC-Mexus-National Science and Technology Council of México}
+
+%------------------------------------------------
+
+\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS
+%----------------------------------------------------------------------------------------
+
+\CVSection{Interests}
+
+%------------------------------------------------
+
+\CVItem{Professional}{Data analysis, multi-objective optimization modeling, water policies, agricultural economics, water governance, climate change impacts in ag-water systems, and coupled natural and human systems}
+
+%------------------------------------------------
+
+\CVItem{Personal}{Nature and art enthusiast, running}
+
+%------------------------------------------------
+
+\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
