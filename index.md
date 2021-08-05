@@ -20,19 +20,19 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 
 <p style="color:#85c1e9;"><b><i class="fas fa-graduation-cap"></i> Education:</b></p>
 
-- PhD in Environmental Systems\
+* PhD in Environmental Systems\
   <sub>University of California Merced, 2019-present</sub>
-- Msc in Economics\
+* Msc in Economics\
  <sub>Colegio de Postgraduados, Mexico, 2018</sub>
-- Bsc in Agricultural Economics\
+* Bsc in Agricultural Economics\
   <sub>Universidad Autonoma Chapingo, Mexico, 2015</sub>
 
 <p style="color:#85c1e9;"><b><i class="fas fa-hiking"></i> Interests:</b><p>
 
-- Mathematical modeling of coupled natural and human systems\
-- Optimization\
-- Hydro-economic models\
-- Uncertainty\
-- Data science\
+* Mathematical modeling of coupled natural and human systems\
+* Optimization\
+* Hydro-economic models\
+* Uncertainty\
+* Data science\
 
 
