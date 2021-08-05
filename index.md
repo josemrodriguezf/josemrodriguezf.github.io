@@ -3,7 +3,7 @@ title: About me
 header:
   image: /assets/images/ag.png
 layout: single
-fontsize: 13pt
+fontsize: 12pt
 ---
 
 
