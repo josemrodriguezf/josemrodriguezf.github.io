@@ -29,14 +29,14 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 
 <p style="color:#85c1e9;"><b><i class="fas fa-hiking"></i> Interests:</b><p>
 
-- Mathematical modeling of coupled natural and human systems
+- Mathematical modeling of coupled natural and human systems\
 
-- Optimization
+- Optimization\
 
-- Hydro-economic models
+- Hydro-economic models\
 
-- Uncertainty
+- Uncertainty\
 
-- Data science
+- Data science\
 
 
