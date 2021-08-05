@@ -18,13 +18,13 @@ I am currently a PhD Candidate in the Environmental Systems Program and Graduate
 Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.io/raw/master/assets/pdf/Jose_Rodriguez_CV.pdf) for an in depth list of my skills, publications, awards, etc. 
 
 
-### <p style="color:#85c1e9;"><b><i class="fas fa-graduation-cap"></i> Education:</b></p>
+### <b><i class="fas fa-graduation-cap"></i> Education:</b>
 
 - PhD in Environmental Systems<br/><sub>University of California Merced, 2019-present</sub>
 - Msc in Economics<br/><sub>Colegio de Postgraduados, Mexico, 2018</sub>
 - Bsc in Agricultural Economics<br/><sub>Universidad Autonoma Chapingo, Mexico, 2015</sub>
 
-### <p style="color:#85c1e9;"><b><i class="fas fa-hiking"></i> Interests:</b><p>
+### <b><i class="fas fa-hiking"></i> Interests:</b>
 
 - Mathematical modeling of coupled natural and human systems
 - Optimization
