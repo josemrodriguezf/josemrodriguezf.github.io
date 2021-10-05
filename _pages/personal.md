@@ -10,18 +10,13 @@ to reach out if you're interested in any of them.
 
 ## California Agricultural Data Visualization
 
-I created and developed the Python Tool for Micrometeorological Analyses:
-[Pymicra](https://pymicra.readthedocs.io/en/latest/). This is an open-source
-project hosted on github that you can use of and contribute to.
+I created with the collaboration of undergraduate studens of our lab a visualization of the Department Water Resources on water and land use estimates by County. Available in the water systems management lab's website in the [agricultural data section](https://wsm.ucmerced.edu/agricultural-data/)
+
 
 
 
 ## Global Sensitivity Analysis Indeces Visualization 
 
-I started a quick [physical oceanography cheat sheet at
-gitlab](https://gitlab.com/tomchor/ocean_cheatsheet/-/wikis/home) that lists and explains
-some useful equations, relations, etc. in a very brief manner. I created it mainly for
-personal use and it's still a work in progress that I populate as I need, but contributors
-are welcome.
+
 
 
