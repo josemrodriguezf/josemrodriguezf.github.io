@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "José M. Rodríguez-Flores"
   avatar           : "/assets/images/profile.png"
-  bio              : "Graduate Student Researcher \n Hydro-economics | Water-human systems | Optimization | Uncertainty"
+  bio              : "Graduate Student Researcher <br> Hydro-economics | Water-human systems | Optimization | Uncertainty"
   location         : "Merced,CA"
   email            : "jrodriguezflores3@ucmerced.edu"
   links:
