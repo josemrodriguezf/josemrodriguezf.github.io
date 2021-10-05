@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast",  "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José M. Rodríguez"
+title                    : ""
 title_separator          : "-"
-subtitle                 : "Graduate Student Researcher"
+subtitle                 : ""
 name                     : "José M. Rodríguez Flores"
-description              : "Coupled water and human systems research"
+description              : "Graduate Student Researcher"
 url                      : "https://josemrodriguezf/josemrodriguezf.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "josemrodriguezf/josemrodriguezf.io" 
