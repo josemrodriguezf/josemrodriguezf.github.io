@@ -1,11 +1,13 @@
 ---
 title: Contact information
 header:
-  image: /assets/images/river2.png
+  image: /assets/images/ag.png
 permalink: /contact/
 ---
 
-I'm always looking for new things to do and learn so if you are interested in
-any part of my work, please contact me using the information below.
+I'm always looking for collaborations and to learn new things. If you are interested in
+my research and work at UC Merced, please contact me by email. 
+Si prefieres en español no dudes en contactarme. 
+
 
 - Email: jrodriguezflores3@ucmerced.edu
