@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast",  "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Rodríguez"
+title                    : "José M. Rodríguez"
 title_separator          : "-"
 subtitle                 : "Graduate Student Researcher"
 name                     : "José M. Rodríguez Flores"
@@ -25,7 +25,7 @@ url                      : "https://josemrodriguezf/josemrodriguezf.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "josemrodriguezf/josemrodriguezf.io" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/profile.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
