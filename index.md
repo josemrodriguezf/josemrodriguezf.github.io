@@ -3,7 +3,7 @@ title: About me
 header:
   image: /assets/images/ag.png
 layout: single
-fontsize: 12pt
+fontsize: 11pt
 ---
 
 
@@ -12,7 +12,7 @@ fontsize: 12pt
 
 
 
-I am currently a PhD Candidate in the Environmental Systems Program and Graduate Student Researcher in the  at UC Merced <a href="https://www.wsm.ucmerced.edu/">Water Systems Management Lab</a>. My research focuses on coupled water-human systems modeling focusing in agriculture. I use optimization and statistical models to understand the evolution of food production and water and how this is affected by exogenous changes such as water policies, crop prices and crop yields. I incorporate uncertainty and multi-beneffit frameworks in my research. 
+I am currently a PhD Candidate in the Environmental Systems Program and Graduate Student Researcher in the  <a href="https://www.wsm.ucmerced.edu/">Water Systems Management Lab</a> at UC Merced. My research focuses on coupled water-human systems modeling focusing on agriculture. I use optimization and statistical models to understand the evolution of food production and water and how this is affected by exogenous changes such as water policies, climate change, crop prices and crop yields. I incorporate uncertainty and multi-objective frameworks in my research. 
 
 
 
@@ -29,6 +29,8 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 
 - Mathematical modeling of coupled natural and human systems
 - Optimization
+- Agriculture 
+- Water Management Policies
 - Hydro-economic models
 - Uncertainty
 - Data science
