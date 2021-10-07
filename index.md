@@ -25,7 +25,7 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 - Msc in Economics<br/><sub>Colegio de Postgraduados, Mexico, 2018</sub>
 - Bsc in Agricultural Economics<br/><sub>Universidad Autonoma Chapingo, Mexico, 2015</sub>
 
-### <b><i class="fas fa-hiking"></i> Interests:</b>
+### <b><i class="fas fa-laptop-code"></i> Research keywords:</b>
 
 - Mathematical modeling of coupled natural and human systems
 - Optimization
@@ -34,5 +34,13 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 - Hydro-economic models
 - Uncertainty
 - Data science
+
+### <b><i class="fas fa-hiking"></i> Other interest and hobbies:<b>
+
+- I love hiking and running 
+- We can talk about our favorite coffee <i class="fas fa-coffee"></i>
+- I love dogs!  
+- In my free time I like to read novels
+
 
 
