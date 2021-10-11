@@ -35,7 +35,7 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 - Uncertainty
 - Data science
 
-### <b><i class="fas fa-hiking"></i> Other interest and hobbies:<b>
+### <b><i class="fas fa-hiking"></i> Other interests and hobbies:<b>
 
 - I love hiking and running 
 - We can talk about our favorite coffee <i class="fas fa-coffee"></i>
