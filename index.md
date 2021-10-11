@@ -37,9 +37,10 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 
 ### <b><i class="fas fa-hiking"></i> Other interests and hobbies:<b>
 
-- I love hiking and running 
-- We can talk about our favorite coffee <i class="fas fa-coffee"></i>
-- I love dogs!  
+- Hiking and running 
+- Looking for the best cup of coffee <i class="fas fa-coffee"></i>
+- I love dogs!
+- i have two planted shrimptanks 
 - In my free time I like to read novels
 
 
