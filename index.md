@@ -1,7 +1,7 @@
 ---
 title: About me
 header:
-  image: /assets/images/ag.png
+  image: /assets/images/label.jpg
 layout: single
 fontsize: 11pt
 ---
