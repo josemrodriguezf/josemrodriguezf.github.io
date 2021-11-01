@@ -1,7 +1,7 @@
 ---
 title: Contact information
 header:
-  image: /assets/images/ag.png
+  image: /assets/images/label.jpg
 permalink: /contact/
 ---
 

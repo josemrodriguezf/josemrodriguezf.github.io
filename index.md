@@ -14,7 +14,7 @@ fontsize: 11pt
 
 I am currently a PhD Candidate in the Environmental Systems Program and Graduate Student Researcher in the  <a href="https://www.wsm.ucmerced.edu/">Water Systems Management Lab</a> at UC Merced. My research focuses on coupled water-human systems modeling focusing on agriculture. I use optimization and statistical models to understand the evolution of food production and water and how this is affected by exogenous changes such as water policies, climate change, crop prices and crop yields. I incorporate uncertainty and multi-objective frameworks in my research. 
 
-
+I code in my daily research work using Python and R. I love to find new ways too visualize data and develop new modeling tools. I would like to share with you my latest coding adventures and I would love to hear what are yours! 
 
 Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.io/raw/master/assets/pdf/Jose_Rodriguez_CV.pdf) for an in depth list of my skills, publications, awards, etc. 
 
@@ -42,8 +42,9 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 - Hiking and running 
 - Looking for the best cup of coffee <i class="fas fa-coffee"></i>
 - I love dogs!
-- i have two planted shrimptanks 
+- I have two planted shrimptanks 
 - In my free time I like to read novels
 
 
 
+Credit banner image: [USGS](https://unsplash.com/@usgs)

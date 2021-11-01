@@ -17,9 +17,9 @@ I created with the collaboration of undergraduate studens of our lab a visualiza
 
 ## Global Sensitivity Analysis Indexes Visualization 
 
-This repo shows how to plot Sobol first, second and total order sensitivty indexes. I used the outputs obtained from SALib python library https://salib.readthedocs.io/en/latest/ 
+This repo shows how to plot Sobol first, second and total order sensitivty indexes. I used R for the visualization and using the outputs obtained from (SALib python library)[https://salib.readthedocs.io/en/latest/]. Check out my github [repo](https://github.com/josemrodriguezf/Global_sensitivity_analysis_visualization), you can follow the Rmarkdown example and create similar visualizations for your results. 
 
-https://github.com/josemrodriguezf/Global_sensitivity_analysis_visualization
+
 
 
 

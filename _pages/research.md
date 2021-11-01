@@ -1,7 +1,7 @@
 ---
 title: Research
 header:
-  image: /assets/images/river.jpeg
+  image: /assets/images/label.jpg
 permalink: /research/
 ---
 

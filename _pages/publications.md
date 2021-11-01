@@ -1,7 +1,7 @@
 ---
 title: Publications
 header:
-  image: /assets/images/river.jpeg
+  image: /assets/images/label.jpg
 permalink: /publications/
 ---
 You can find my most relevant publications below. Fore a more
