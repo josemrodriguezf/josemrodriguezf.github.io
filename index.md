@@ -32,6 +32,8 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 - Agriculture 
 - Water Management Policies
 - Hydro-economic models
+- Socio-hydrology 
+- Water economics
 - Uncertainty
 - Data science
 
