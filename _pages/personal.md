@@ -22,10 +22,10 @@ This repo shows how to plot Sobol first, second and total order sensitivty index
 
  <div class="row">
   <div class="column">    
-    <img src="/assets/images/chord_diagram_legend.png" alt="drawing" width="250" style="background-color:white;"/>
+    <img src="/assets/images/chord_diagram_legend.png" alt="drawing" width="250" style="background-color:white;">
   </div>
   <div class="column">
-    <img src="/assets/images/EXAMPLE.png" alt="drawing" width="250" style="background-color:white;"/>
+    <img src="/assets/images/EXAMPLE.png" alt="drawing" width="250" style="background-color:white;">
   </div>
 </div> 
 
@@ -38,10 +38,10 @@ This [repo](https://github.com/josemrodriguezf/Summaries_Central_Valley) contain
 
  <div class="row">
   <div class="column">    
-    <img src="/assets/images/plotsjv.png" alt="drawing" style="width:100%"/>
+    <img src="/assets/images/plotsjv.png" alt="drawing" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/sacv.png" alt="drawing" style="width:100%"/>
+    <img src="/assets/images/sacv.png" alt="drawing" style="width:100%">
   </div>
 </div> 
 
