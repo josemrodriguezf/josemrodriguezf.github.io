@@ -24,7 +24,7 @@ This repo shows how to plot Sobol first, second and total order sensitivty index
 
 <img src="/assets/images/EXAMPLE.png" alt="drawing" width="300" style="background-color:red;"/>
 
-## Central valley crop trends summaries Sacramento and San Joaquin
+## Central valley crop trends summaries Sacramento Valley and San Joaquin Valley
 
 This [repo](https://github.com/josemrodriguezf/Summaries_Central_Valley) contains the code to visualize cropland trends in the Central Valley California by the two main regions, used in the blog:  [Lessons from Three Decades of Evolution of Cropland use in the Central Valley](https://californiawaterblog.com/2021/09/05/lessons-from-three-decades-of-evolution-of-cropland-use-in-the-central-valley/)
 
