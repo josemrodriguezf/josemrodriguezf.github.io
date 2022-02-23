@@ -23,9 +23,9 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family           : $monospace !default;
-$header-font-family           : $bodoni !default;
-$caption-font-family          : $monospace !default;
+$global-font-family           : $monospace, Consolas !default;
+$header-font-family           : $bodoni,serif !default;
+$caption-font-family          : $monospace, monospace !default;
 
 /* type scale */
 $type-size-1: 2.441em !default;
