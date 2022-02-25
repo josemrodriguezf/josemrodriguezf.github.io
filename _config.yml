@@ -95,8 +95,9 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    measurement_id       : "G-XJVKSSJD79"
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-XJVKSSJD79"
+    #measurement_id       : "G-XJVKSSJD79"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
