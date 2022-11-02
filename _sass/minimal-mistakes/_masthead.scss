@@ -1,13 +1,5 @@
 /* ==========================================================================
    MASTHEAD
-   .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
-  z-index: 20;
    ========================================================================== */
 
 .masthead {
@@ -18,10 +10,6 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  background: $masthead-background-color;  
-
-
-
 
   &__inner-wrap {
     @include clearfix;
