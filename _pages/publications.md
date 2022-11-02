@@ -22,7 +22,7 @@ Reports
 ---------------------
 
 
-Medellín-Azuara, J., Escriva-Bou, A., Abatzoglou, J.A., Viers, J.H, Cole, S.A., Rodríguez-Flores, J.M., and Sumner, D.A. (2022). **"Economic Impacts of the 2021 Drought on California Agriculture. Preliminary Report."** University of California, Merced. Available at this [link](https://wsm.ucmerced.edu/wp-content/uploads/2022/02/2021-Drought-Impact-Assessment_20210224.pdf)
+Medellín-Azuara, J., Escriva-Bou, A., Abatzoglou, J.A., Viers, J.H, Cole, S.A., **Rodríguez-Flores, J.M.**, and Sumner, D.A. (2022). **"Economic Impacts of the 2021 Drought on California Agriculture. Preliminary Report."** University of California, Merced. Available at this [link](https://wsm.ucmerced.edu/wp-content/uploads/2022/02/2021-Drought-Impact-Assessment_20210224.pdf)
 
 Whipple, A. A., Safran, S. M., Zeleke, D., Wells, E., Deverel, S., Olds, M., Cole, S., **Rodríguez-Flores,J. M.**, Guzman, A., Medellín-Azuara, J., Grenier, J. L. 2022. **"Resilient Staten Island: Landscape
 Scenario Analysis Pilot Application."** Prepared for the U.S. Fish and Wildlife Service. SFEI Publication #1079, San Francisco Estuary Institute, Richmond, CA Available at this [link](https://www.sfei.org/sites/default/files/biblio_files/Resilient%20Staten%20Island_SFEI_052022_highres.pdf)
