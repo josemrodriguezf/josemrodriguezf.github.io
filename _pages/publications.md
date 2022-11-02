@@ -1,7 +1,5 @@
 ---
 title: Publications
-header:
-  image: /assets/images/label.jpg
 permalink: /publications/
 classes: wide
 ---

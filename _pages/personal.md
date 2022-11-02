@@ -1,7 +1,5 @@
 ---
 title: Personal projects
-header:
-  image: /assets/images/label.jpg
 permalink: /personal/
 classes: wide
 ---
