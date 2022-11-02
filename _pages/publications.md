@@ -3,6 +3,7 @@ title: Publications
 header:
   image: /assets/images/label.jpg
 permalink: /publications/
+classes: wide
 ---
 You can find my most relevant publications below. Fore a more
 complete publication including , reports and conference abastracts you can visit my [Google Scholar](https://scholar.google.com/citations?user=MJpJiPsAAAAJ&hl=en)

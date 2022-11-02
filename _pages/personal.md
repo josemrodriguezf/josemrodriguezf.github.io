@@ -3,6 +3,7 @@ title: Personal projects
 header:
   image: /assets/images/label.jpg
 permalink: /personal/
+classes: wide
 ---
 
 Here you can find a non-exhaustive list of projects that I pursue on my own. Feel free 
