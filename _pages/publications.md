@@ -16,7 +16,7 @@ Journal Articles
 Fernandez-Bou, Angel Santiago, et al. **"3 challenges, 3 errors, and 3 solutions to integrate frontline communities in climate change policy and research: lessons from California."** Frontiers in Climate (2021): 104.[https://doi.org/10.3389/fclim.2021.717554](https://doi.org/10.3389/fclim.2021.717554)
 
 
-Rodríguez-Flores, José M., et al. **"Insights from a calibrated optimization model for irrigated agriculture under drought in an irrigation district on the central Mexican high plains."** Water 11.4 (2019): 858.[https://doi.org/10.3390/w11040858](https://doi.org/10.3390/w11040858)
+**Rodríguez-Flores, José M.**, et al. **"Insights from a calibrated optimization model for irrigated agriculture under drought in an irrigation district on the central Mexican high plains."** Water 11.4 (2019): 858.[https://doi.org/10.3390/w11040858](https://doi.org/10.3390/w11040858)
 
 Reports
 ---------------------
