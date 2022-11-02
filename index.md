@@ -4,6 +4,7 @@ header:
   image: /assets/images/label.jpg
 layout: single
 fontsize: 11pt
+classes: wide
 ---
 
 
