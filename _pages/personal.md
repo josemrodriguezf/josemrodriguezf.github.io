@@ -1,6 +1,6 @@
 ---
-title: Personal projects
-permalink: /personal/
+title: Projects
+permalink: /Personal/
 classes: wide
 ---
 
