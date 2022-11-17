@@ -11,9 +11,8 @@ classes: wide
 
 
 
-I am currently a PhD Candidate in the Environmental Systems Program and Graduate Student Researcher in the  <a href="https://www.wsm.ucmerced.edu/">Water Systems Management Lab</a> at UC Merced. My research focuses on coupled water-human systems modeling focusing on agriculture. I use optimization and statistical models to understand the evolution of food production and water and how this is affected by exogenous changes such as water policies, climate change, crop prices and crop yields. I incorporate uncertainty and multi-objective frameworks in my research. 
+I am currently a 4th year Ph.D. Candidate in the Environmental Systems Program and Graduate Student Researcher in the  <a href="https://www.wsm.ucmerced.edu/">Water Systems Management Lab</a> at UC Merced. I am interested on water, food production and the multiple links the society, environment and economy have with these two systems. My research focuses on system analysis of the coupled water-human systems. I use mudeling tools such as optimization and statistical models to understand the evolution and feed-back between food production and water and how this is affected by exogenous changes such as water policies, climate change, crop prices and crop yields. Also, I am interested on developing visualizations and supporting tools that can help in the decision support of water and land strategies. 
 
-I code in my daily research work using Python and R. I love to find new ways too visualize data and develop new modeling tools. I would like to share with you my latest coding adventures and I would love to hear what are yours! 
 
 Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.io/raw/master/assets/pdf/Jose_Rodriguez_CV.pdf) for an in depth list of my skills, publications, awards, etc. 
 
@@ -26,7 +25,8 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 
 ### <b><i class="fas fa-laptop-code"></i> Research keywords:</b>
 
-- Mathematical modeling of coupled natural and human systems
+
+- System analysis of coupled natural and human systems
 - Optimization
 - Agriculture 
 - Water Management Policies
