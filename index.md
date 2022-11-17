@@ -26,7 +26,7 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 ### <b><i class="fas fa-laptop-code"></i> Research keywords:</b>
 
 
-- Analysis of water-human-environmental systems
+- Water-human-environmental systems
 - Optimization
 - Agriculture 
 - Water Management Policies
