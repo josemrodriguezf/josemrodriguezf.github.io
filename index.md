@@ -26,7 +26,7 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 ### <b><i class="fas fa-laptop-code"></i> Research keywords:</b>
 
 
-- System analysis of coupled natural and human systems
+- Analysis of water, human and environmental systems
 - Optimization
 - Agriculture 
 - Water Management Policies
@@ -36,14 +36,11 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 - Uncertainty
 - Data science
 
-### <b><i class="fas fa-hiking"></i> Other interests and hobbies:<b>
+<!-- ### <b><i class="fas fa-hiking"></i> Other interests and hobbies:<b>
 
-- Hiking and running 
+<!-- - Hiking and running  -->
 - Looking for the best cup of coffee <i class="fas fa-coffee"></i>
-- I love dogs!
-- I have two planted shrimptanks 
-- In my free time I like to read novels
+- I love dogs! have two pitbull 
+- Aquascape 
+ -->
 
-
-
-Credit banner image: [USGS](https://unsplash.com/@usgs)
