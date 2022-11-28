@@ -9,7 +9,9 @@ complete publication including , reports and conference abastracts you can visit
 Journal Articles
 ---------------------
 
- A.S. Fernandez-Bou, **J.M. Rodríguez-Flores**, A. Guzman, et al., **"Water, environment, and socioeconomic justice in California: A multi-benefit framework"**, Science of the Total Environment (2022), [https://doi.org/10.1016/j.scitotenv.2022.159963](https://doi.org/10.1016/j.scitotenv.2022.159963)
+ A.S. Fernandez-Bou, **J.M. Rodríguez-Flores**, A. Guzman, et al., **"Water, environment, and socioeconomic justice in California: A multi-benefit cropland repurposing framework"**, Science of the Total Environment (2022), [https://doi.org/10.1016/j.scitotenv.2022.159963](https://doi.org/10.1016/j.scitotenv.2022.159963)
+
+ Medellín-Azuara, J., Escriva-Bou, A., **Rodríguez-Flores, J.M.**, Cole, S.A, Abatzoglou, J.T., Viers,J.H., Santos, N., and Sumner, D.A. **Economic Impacts of the 2020-2022 Drought on California Agriculture (2022). A report for the California Department of Food and Agriculture**. Water Systems Management Lab. University of California, Merced 35p. Available at [link](http://drought.ucmerced.edu)
 
 **Rodríguez-Flores, J.M.**, Valero Fandiño, J.A., Cole, S.A. et al. **"Global Sensitivity Analysis of a Coupled Hydro-Economic Model and Groundwater Restriction Assessment"**. Water Resour Manage (2022). [https://doi.org/10.1007/s11269-022-03344-5](https://doi.org/10.1007/s11269-022-03344-5)
 
