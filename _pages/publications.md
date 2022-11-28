@@ -11,8 +11,6 @@ Journal Articles
 
  A.S. Fernandez-Bou, **J.M. Rodríguez-Flores**, A. Guzman, et al., **"Water, environment, and socioeconomic justice in California: A multi-benefit cropland repurposing framework"**, Science of the Total Environment (2022), [https://doi.org/10.1016/j.scitotenv.2022.159963](https://doi.org/10.1016/j.scitotenv.2022.159963)
 
- Medellín-Azuara, J., Escriva-Bou, A., **Rodríguez-Flores, J.M.**, Cole, S.A, Abatzoglou, J.T., Viers,J.H., Santos, N., and Sumner, D.A. **Economic Impacts of the 2020-2022 Drought on California Agriculture (2022). A report for the California Department of Food and Agriculture**. Water Systems Management Lab. University of California, Merced 35p. Available at [link](http://drought.ucmerced.edu)
-
 **Rodríguez-Flores, J.M.**, Valero Fandiño, J.A., Cole, S.A. et al. **"Global Sensitivity Analysis of a Coupled Hydro-Economic Model and Groundwater Restriction Assessment"**. Water Resour Manage (2022). [https://doi.org/10.1007/s11269-022-03344-5](https://doi.org/10.1007/s11269-022-03344-5)
 
 Fernandez-Bou, Angel Santiago, et al. **"3 challenges, 3 errors, and 3 solutions to integrate frontline communities in climate change policy and research: lessons from California."** Frontiers in Climate (2021): 104.[https://doi.org/10.3389/fclim.2021.717554](https://doi.org/10.3389/fclim.2021.717554)
@@ -23,6 +21,7 @@ Fernandez-Bou, Angel Santiago, et al. **"3 challenges, 3 errors, and 3 solutions
 Reports
 ---------------------
 
+Medellín-Azuara, J., Escriva-Bou, A., **Rodríguez-Flores, J.M.**, Cole, S.A, Abatzoglou, J.T., Viers,J.H., Santos, N., and Sumner, D.A. **Economic Impacts of the 2020-2022 Drought on California Agriculture (2022). A report for the California Department of Food and Agriculture**. Water Systems Management Lab. University of California, Merced 35p. Available at this [link](http://drought.ucmerced.edu)
 
 Medellín-Azuara, J., Escriva-Bou, A., Abatzoglou, J.A., Viers, J.H, Cole, S.A., **Rodríguez-Flores, J.M.**, and Sumner, D.A. (2022). **"Economic Impacts of the 2021 Drought on California Agriculture. Preliminary Report."** University of California, Merced. Available at this [link](https://wsm.ucmerced.edu/wp-content/uploads/2022/02/2021-Drought-Impact-Assessment_20210224.pdf)
 
