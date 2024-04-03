@@ -8,6 +8,11 @@ complete publication including , reports and conference abastracts you can visit
 
 Journal Articles
 ---------------------
+**Rodríguez-Flores, José M.**, , Fernandez-Bou, A. S., Ortiz-Partida, J. P., & Medellín-Azuara, J. (2023). Drivers of domestic wells vulnerability during droughts in California’s Central Valley. Environmental Research Letters, 19(1), 014003.[ https://doi.org/10.1088/1748-9326/ad0d39](https://doi.org/10.1088/1748-9326/ad0d39)
+
+**Rodríguez-Flores, J. M.**, Gupta, R. S., Zeff, H. B., Reed, P. M., & Medellín-Azuara, J. (2023). Identifying robust adaptive irrigation operating policies to balance deeply uncertain economic food production and groundwater sustainability trade-offs. Journal of Environmental Management, 345, 118901.[https://doi.org/10.1016/j.jenvman.2023.118901](https://doi.org/10.1016/j.jenvman.2023.118901)
+
+Ortiz-Partida, J. P., Fernandez-Bou, A. S., Maskey, M., **Rodríguez-Flores, J. M.**, Medellín-Azuara, J., Sandoval-Solis, S., ... & Kahil, T. (2023). Hydro-Economic Modeling of Water Resources Management Challenges: Current Applications and Future Directions. Water Economics & Policy, 9(1).[https://doi.org/10.1142/S2382624X23400039](https://doi.org/10.1142/S2382624X23400039)
 
  A.S. Fernandez-Bou, **J.M. Rodríguez-Flores**, A. Guzman, et al., **"Water, environment, and socioeconomic justice in California: A multi-benefit cropland repurposing framework"**, Science of the Total Environment (2022), [https://doi.org/10.1016/j.scitotenv.2022.159963](https://doi.org/10.1016/j.scitotenv.2022.159963)
 

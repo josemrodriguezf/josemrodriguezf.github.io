@@ -11,7 +11,11 @@ classes: wide
 
 
 
-I am currently a 4th year Ph.D. Candidate in the Environmental Systems Program and Graduate Student Researcher in the  <a href="https://www.wsm.ucmerced.edu/">Water Systems Management Lab</a> at UC Merced. I am interested on the water-food system and their multiple links with society, environment and economy. My research focuses on system analysis of the coupled water-human systems. I use modeling tools such as optimization and statistical models to understand the evolution and feed-back between food production and water and how this is affected by exogenous changes such as water policies, climate change, crop prices and crop yields. Also, I am interested on developing visualizations, apps and modeling support tools that can help in the decision making of water and land strategies for sustainable water use and multi-beneffit projects. 
+I am currently a Senior Analys, Climate Reslilient Water Systems at the [Environmental Defense Fund](https://www.edf.org/people/jose-rodriguez-flores). I am interested on the water-food systems and their multiple links with society, environment and economy. My research focuses on system analysis of coupled water-human systems. I use modeling tools such as optimization and statistical models to understand the evolution and feed-backs between food production, water, society and the economy, and how these change by changes in water policy, climate change, crop prices, etc. 
+
+Agricultrural landscapes are changing worlwide due to water scarcity and water management policies. From retiring irrigated agricultural land to repurposing to habitat conservation, lower-water use crops and multi-benefit groundwater recharge projects, Strategies can be implemented to do these transition strategically that also aims to do a equitable and just transition. My work focuses on the ongoing land repurposing efforts in California, contributing to achieve groundwater sustainability. 
+
+I love to develope visualizations, apps and modeling support tools that can help in the decision making of water and land strategies for sustainable water use and multi-beneffit projects. 
 
 
 Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.io/raw/master/assets/pdf/Jose_Rodriguez_CV.pdf) for an in depth list of my skills, publications, awards, etc. 
@@ -19,22 +23,25 @@ Check my [curriculum](https://github.com/josemrodriguezf/josemrodriguezf.github.
 
 ### <b><i class="fas fa-graduation-cap"></i> Education:</b>
 
-- PhD in Environmental Systems<br/><sub>University of California Merced, 2019-present</sub>
-- Msc in Economics<br/><sub>Colegio de Postgraduados, Mexico, 2018</sub>
-- Bsc in Agricultural Economics<br/><sub>Universidad Autonoma Chapingo, Mexico, 2015</sub>
+- **Ph.D. in Environmental Systems**<br/>University of California Merced, 2019-2023
+- **M.Sc in Economics**<br/>Colegio de Postgraduados, Mexico, 2018
+- **B.Sc in Agricultural Economics**<br/>
+Universidad Autonoma Chapingo, Mexico, 2015
 
 ### <b><i class="fas fa-laptop-code"></i> Research keywords:</b>
 
 
 - Water-human-environmental systems
-- Optimization
+- Collaborative Water Management
+- Land repurposing
+- Multibenefit/Multi-objective
 - Agriculture 
+- Groundwater
 - Water Management Policies
 - Hydro-economic models
 - Socio-hydrology 
 - Water economics
-- Uncertainty
-- Data science
+- Optimization
 
 <!-- ### <b><i class="fas fa-hiking"></i> Other interests and hobbies:<b>
 

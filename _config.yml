@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" #"dark" #"default" # "air", "aqua", "contrast",  "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"dark" #"default" # "air", "aqua", "contrast",  "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "José M. Rodríguez"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "José M. Rodríguez Flores"
-description              : "Graduate Student Researcher"
+description              : "Senior Analyst"
 url                      : "https://josemrodriguezf.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"josemrodriguezf/josemrodriguezf.io" 
@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "José M. Rodríguez-Flores"
   avatar           : "/assets/images/Jose_headshot.jpg"
-  bio              : "Graduate Student Researcher"
+  bio              : "Senior Analyst"
   location         : "Merced,CA"
-  email            : "jrodriguezflores3@ucmerced.edu"
+  email            : "jrodriguez@edf.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "jrodriguezflores3@ucmerced.edu"
+      #url: "jrodriguez@edf.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
