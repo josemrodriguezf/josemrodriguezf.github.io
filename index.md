@@ -10,7 +10,7 @@ classes: wide
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 
-I am currently a Senior Analys, Climate Reslilient Water Systems at the [Environmental Defense Fund](https://www.edf.org/people/jose-rodriguez-flores). I am interested on the water-food systems and their multiple links with society, environment and economy. My research focuses on system analysis of coupled water-human systems. I use modeling tools such as optimization and statistical models to understand the evolution and feed-backs between food production, water, society and the economy, and how these change by changes in water policy, climate change, crop prices, etc. 
+I am currently a Senior Analyst on the Climate Reslilient Water Systems team at the [Environmental Defense Fund](https://www.edf.org/people/jose-rodriguez-flores). I am interested on the water-food systems and their multiple links with society, environment and economy. My research focuses on system analysis of coupled water-human systems. I use modeling tools such as optimization and statistical models to understand the evolution and feed-backs between food production, water, society and the economy, and how these change by changes in water policy, climate change, crop prices, etc. 
 
 Agricultrural landscapes are changing worlwide due to water scarcity and water management policies. Retiring irrigated agricultural land and **repurposing** to othrer uses such as habitat conservation, lower-water use crops, multi-benefit groundwater recharge projects, among others, can be implemented as strategies to acheive water sustainability and build climate change resilience. However, these transitions should be strategically implemented to have a **sustainable, equitable and just transition**. My work focuses on the ongoing land repurposing efforts in California, contributing to achieve groundwater sustainability and benefiting vulnerable communities and ecosystems. 
 
@@ -42,6 +42,9 @@ Universidad Autonoma Chapingo, Mexico, 2015
 - Socio-hydrology 
 - Water economics
 - Optimization
+
+
+![Merced](/assets/images/merced_river.JPEG)
 
 <!-- ### <b><i class="fas fa-hiking"></i> Other interests and hobbies:<b>
 
