@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" #"dark" #"default" # "air", "aqua", "contr
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José M. Rodríguez"
+title                    : "José Rodríguez"
 title_separator          : "-"
 subtitle                 : ""
-name                     : "José M. Rodríguez Flores"
-description              : "Senior Analyst"
+name                     : "José M. Rodríguez-Flores"
+description              : "Senior Analyst, EDF"
 url                      : "https://josemrodriguezf.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"josemrodriguezf/josemrodriguezf.io" 
