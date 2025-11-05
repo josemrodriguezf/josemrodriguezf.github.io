@@ -27,7 +27,7 @@ role: Applied Geospatial Data Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: CSUMB
-    url: 
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -93,8 +93,7 @@ work:
     icon: ''
     date_start: 2019-06-01
     date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    summary: 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
