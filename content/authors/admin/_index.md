@@ -1,6 +1,6 @@
 ---
 # Display name
-title: José Rodríguez
+title: José M. Rodríguez-Flores
 # Name pronunciation (optional)
 name_pronunciation: ''
 
