@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jose Rodriguez
+title: José Rodríguez
 # Name pronunciation (optional)
 name_pronunciation: ''
 
@@ -163,7 +163,7 @@ education:
 #     icon: hero/academic-cap
 #     summary: |
 #       Recognized for contributions to scaling laws in deep learning.
-# ---
+---
 
 I currently work at California State University, Monterey Bay (CSUMB) with the OpenET team. My projects focus on assessing the impacts of water conservation actions in agriculture—such as crop switching, improving irrigation efficiency, fallowing land, and transitioning to non-agricultural uses—and their effects on consumptive water use and overall water budgets. I aim to evaluate the trade-offs between these actions and agricultural productivity, economic outcomes, and sustainability, as well as their contributions to the long-term resilience of river basins and water systems.
 
