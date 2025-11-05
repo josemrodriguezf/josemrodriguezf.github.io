@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Alex Johnson
-
+title: Jose Rodriguez
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: José M. 
+last_name: Rodríguez-Flores
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: he/him/él
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ::tennis::
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,35 +22,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Applied Geospatial Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: CSUMB
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:jrodriguezflores@csumb.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/josemrodriguezf
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/josemrodriguezflores/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=MJpJiPsAAAAJ&hl=en&authuser=1
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Water Conservation
+  - Landscape Transitions
+  - Water Management
+  - Remote Sensing & Spatial Data
+  - Climate Change
 
 education:
   - area: PhD Computer Science (AI Focus)
