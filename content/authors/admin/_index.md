@@ -13,7 +13,7 @@ pronouns: he/him/él
 
 # Status emoji
 status:
-  icon: :tennis:
+  icon: ':tennis:'
 
 # Is this the primary user of the site?
 superuser: true
