@@ -13,7 +13,7 @@ pronouns: he/him/él
 
 # Status emoji
 status:
-  icon: ::tennis::
+  icon: :tennis:
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/josemrodriguezflores/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=MJpJiPsAAAAJ&hl=en&authuser=1
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Water Conservation
