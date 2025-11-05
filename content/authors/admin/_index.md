@@ -165,4 +165,8 @@ education:
 #       Recognized for contributions to scaling laws in deep learning.
 # ---
 
-# Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I currently work at California State University, Monterey Bay (CSUMB) with the OpenET team. My projects focus on assessing the impacts of water conservation actions in agriculture—such as crop switching, improving irrigation efficiency, fallowing land, and transitioning to non-agricultural uses—and their effects on consumptive water use and overall water budgets. I aim to evaluate the trade-offs between these actions and agricultural productivity, economic outcomes, and sustainability, as well as their contributions to the long-term resilience of river basins and water systems.
+
+I am also interested in collaborative research opportunities and field sites where these conservation strategies can be tested and evaluated to better understand their real-world impacts.
+
+
