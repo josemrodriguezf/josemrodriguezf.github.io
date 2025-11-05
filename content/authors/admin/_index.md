@@ -165,7 +165,7 @@ education:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I currently work at California State University, Monterey Bay (CSUMB) with the OpenET team. My projects focus on assessing the impacts of water conservation actions in agriculture—such as crop switching, improving irrigation efficiency, fallowing land, and transitioning to non-agricultural uses—and their effects on consumptive water use and overall water budgets. I aim to evaluate the trade-offs between these actions and agricultural productivity, economic outcomes, and sustainability, as well as their contributions to the long-term resilience of basins and water systems.
+I currently work at California State University, Monterey Bay (CSUMB) with the OpenET team. My projects focus on assessing the impacts of water conservation actions in agriculture—such as crop switching, improving irrigation efficiency, fallowing land, and transitioning to non-agricultural uses—and their effects on consumptive water use and overall water budgets. I aim to evaluate the trade-offs between these actions and agricultural productivity, economic outcomes, and sustainability, as well as their contributions to the long-term resilience of basins and water systems. My goal is to inform water managers and policy makers on what types of water and land conservaton investments can achieve these outcomes. 
 
 I am also interested in collaborative research opportunities and field sites where these conservation strategies can be tested and evaluated to better understand their real-world impacts.
 

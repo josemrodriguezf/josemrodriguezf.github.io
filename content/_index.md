@@ -27,7 +27,7 @@ sections:
       css_class: 'background-color: black; color: white;'
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
@@ -40,7 +40,7 @@ sections:
 
         Drawing on an interdisciplinary background, I apply systems thinking to explore the links and feedbacks between environmental and socio-economic systems—analyzing trade-offs and informing strategies for sustainable water  management.
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: papers
   #   content:
