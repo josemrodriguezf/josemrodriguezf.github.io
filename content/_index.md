@@ -56,7 +56,7 @@ sections:
               Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation and irrigation efficency investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation. Using remote sensing ET (OpenET) data, spatial analysis and modeling tools. 
               </p>
           <div style="text-align: center; margin-top: 0.5rem;">
-            <img src="/uploads/Image.png" alt="LST" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px;">
+            <img src="/uploads/Image.png" alt="LST" style="width: 100%;  height: auto; border-radius: 8px;">
           </div>
         </div>
     design:
