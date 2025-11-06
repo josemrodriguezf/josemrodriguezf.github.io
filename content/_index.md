@@ -39,8 +39,8 @@ sections:
   #       The overarching goal of my work is to advance data-driven decision-making that enhances climate resilience and sustainability.
 
   #       Drawing on an interdisciplinary background, I apply systems thinking to explore the links and feedbacks between environmental and socio-economic systems—analyzing trade-offs and informing strategies for sustainable water  management.
-    design:
-      columns: '2'
+  #   design:
+  #     columns: '2'
   # - block: collection
   #   id: papers
   #   content:
