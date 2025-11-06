@@ -1,0 +1,49 @@
+---
+title: A participatory approach for developing a geospatial toolkit for mapping the
+  suitability of California’s Multibenefit Land Repurposing Program (MLRP) in support
+  of groundwater sustainability
+authors:
+- Yelenka Nuñez-Bolaño
+- Humberto Flores-Landeros
+- José M. Rodríguez-Flores
+- Angel S. Fernandez-Bou
+- Josué Medellín-Azuara
+- Thomas C. Harmon
+date: '2025-05-09'
+publishDate: '2025-11-06T00:50:40.188927Z'
+publication_types:
+- article-journal
+doi: 10.3389/frwa.2025.1539834
+abstract: Reliance on groundwater during drought cycles is a common cause of overdraft
+  conditions, particularly in regions dominated by irrigated agriculture. Groundwater
+  overdraft is evidenced by declining water table levels, widespread well failure,
+  and land subsidence. Given the severity of these outcomes, natural resource managers
+  are under increasing pressure to create economic and equitable sustainability plans
+  in response to human water demands and climate change impacts. This work describes
+  the development of a novel toolkit (software) designed to support multicriteria
+  decisions centered around restoring groundwater sustainability in overdrafted regions.
+  The toolkit was developed collaboratively with participants in California’s Multibenefit
+  Land Repurposing Program (MLRP), which aims to repurpose irrigated agricultural
+  land to reduce groundwater extraction while providing multiple benefits. The toolkit
+  integrates existing spatial data layers using a Web-based, open-source package (Shiny
+  R) to assess the suitability of land for repurposing. We used fuzzy logic to create
+  six land repurposing suitability indices for (1) enhancing groundwater recharge,
+  (2) minimizing negative impacts to the agricultural economy, (3) increasing renewable
+  energy production, (4) increasing wildlife habitat restoration and conservation,
+  (5) mitigating local flood risk, and (6) reducing environmental health risks in
+  disadvantaged communities. These indices (or subsets) can be combined as weighted
+  averages to create user-specified multibenefit scenarios. The resulting output can
+  be inspected locally to screen prospective land parcels based on their repurposing
+  potential, or holistically to prioritize specific areas in the context of regional
+  land repurposing strategies. We illustrate the development, application, and possible
+  uses of the toolkit in the context of two critically overdrafted groundwater subbasins,
+  Tule and Kaweah, both located in California’s San Joaquin Valley. The methods described
+  are transferable to other overdrafted regions assuming that adequate geospatial
+  data is available. Given its Web-accessibility and user-controlled weighting scheme,
+  the MLRP toolkit can facilitate regional coordination of resource agencies and stakeholders
+  and help to maximize multiple benefits of land repurposing while achieving groundwater
+  sustainability.
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/frwa.2025.1539834/full
+---
