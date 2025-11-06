@@ -35,7 +35,7 @@ sections:
     content:
       title: 'Research Keywords'
       text: |-
-         <p align="center">
+        <p align="center">
           
         `Water Conservation` `Agriculture` `Landscape Transitions` `Water Management` `Remote Sensing` `Climate Change` `Hydro-economics`
 
