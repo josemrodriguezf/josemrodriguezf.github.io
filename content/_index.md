@@ -37,7 +37,7 @@ sections:
       text: |-
         <p align="left">
           
-        [Food-Water Systems] [Irrigation] [Hydro-economics] [Landscape Transitions] [Water Management] [Remote Sensing] [Climate Change] [Drought] [Cropland Repurposing] [Spatial Analysis] [Optimization] [Statistical Modeling]
+        [Food-Water Systems] [Irrigation] [Hydro-economics] [Climate Resilience] [Water Management] [Remote Sensing] [Climate Change] [Drought] [Cropland Repurposing] [Spatial Analysis] [Optimization] [Statistical Modeling] [ET] [Socio-hydrology]
 
         </p>
     design:
@@ -82,7 +82,7 @@ sections:
     design:
       view: citation
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [-1, 0, 0, -1]
   # - block: collection
   #   id: talks
   #   content:
