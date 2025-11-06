@@ -5,15 +5,15 @@
 
 main:
   - name: 'About'
-    url: #about
+    url: '#about'
     weight: 7
   - name: Research Keywords
-    url: /#research-keywords
+    url: '#research-keywords'
     weight: 11
   - name: Current Project
-    url: /#current-project  
+    url: '#current-project'  
   - name: Recent Publications
-    url: /#recent-publications
+    url: '#recent-publications'
     weight: 12
   # - name: News
   #   url: /#news
