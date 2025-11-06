@@ -57,6 +57,15 @@ sections:
             </p>
           </div>
         </div>
+
+        <div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem;">
+          <img src="uploads/image.png" alt="Water use analysis" style="width: 120px; height: auto; border-radius: 8px; flex-shrink: 0;">
+          <div style="flex: 1; text-align: left;">
+            <p style="margin: 0;">
+              Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation and irrigation efficiency investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation. Using remote sensing ET (OpenET) data, spatial analysis, and modeling tools.
+            </p>
+          </div>
+        </div>
     design:
       view: card
 
