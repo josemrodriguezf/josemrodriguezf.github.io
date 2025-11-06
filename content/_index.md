@@ -40,7 +40,7 @@ sections:
 
         Drawing on an interdisciplinary background, I apply systems thinking to explore the links and feedbacks between environmental and socio-economic systems—analyzing trade-offs and informing strategies for sustainable water  management.
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: papers
   #   content:
