@@ -37,11 +37,11 @@ sections:
       text: |-
         <p align="center">
           
-        `Water Conservation` `Agriculture` `Landscape Transitions` `Water Management` `Remote Sensing` `Climate Change` `Hydro-economics`
+        `Food-Water Systems` `Irrigation` `Landscape Transitions` `Water Management` `Remote Sensing` `Climate Change` `Hydro-economics` `Drought`
 
         </p>
-  design:
-    view: card
+    design:
+      view: card
   - block: markdown
     id: current-project
     content:
