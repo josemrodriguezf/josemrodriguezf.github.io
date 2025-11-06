@@ -31,10 +31,20 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: 'Current Projects :bicyclist:'
-      subtitle: ''
+      title: ''
       text: |-
-         Assessing consumptive water use changes from water conservation investments and land transitions in Western US States, trade-offs and implications for basin climate adaptation. 
+        <div style="display: flex; align-items: center; justify-content: space-between;">
+          <div style="flex: 0 0 40%;">
+            <h3>Current Projects 🚴</h3>
+          </div>
+          <div style="flex: 1;">
+            <p>
+            Assessing consumptive water use changes from farm to basin scale from water conservation investments and land transitions in Western US States, trade-offs and implications for basin's climate adaptation.
+            </p>
+          </div>
+        </div>
+    design:
+      view: card
     
     design:
       columns: '2'
