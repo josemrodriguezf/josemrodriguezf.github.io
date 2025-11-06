@@ -41,7 +41,7 @@ sections:
 
         </p>
     design:
-      view: compact
+      view: card
       spacing:  
         padding: [-1rem, 0, -1rem, 0]
 
@@ -57,8 +57,8 @@ sections:
             </p>
           </div>
         </div>
-    # design:
-      # view: card
+    design:
+      view: card
 
     # design:
     #   columns: '2'
