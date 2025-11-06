@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -30,13 +31,14 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: current-project
     content:
       title: 'Current Project'
       text: |-
         <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
           <div style="flex: 1; text-align: left;">
             <p style="margin: 0;">
-              Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation.
+              Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation and irrigation efficency investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation.
             </p>
           </div>
         </div>
@@ -57,6 +59,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: recent-publications
     content:
       title: Recent Publications
       text: ''

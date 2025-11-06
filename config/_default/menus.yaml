@@ -7,9 +7,9 @@ main:
   - name: 'About'
     url: '#about'
     weight: 7
-  - name: Research Keywords
-    url: '#research-keywords'
-    weight: 11
+  # - name: Research Keywords
+  #   url: '#research-keywords'
+  #   weight: 11
   - name: Current Project
     url: '#current-project'  
   - name: Recent Publications
