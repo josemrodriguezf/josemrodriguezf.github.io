@@ -169,10 +169,9 @@ I currently work at California State University, Monterey Bay (CSUMB) with the [
 
 I am also interested in collaborative research opportunities and field sites where these conservation strategies can be tested and evaluated to better understand their real-world impacts.
 
-| **Experience** | **Education** |
-|-----------------|---------------|
-| 💼 **Applied Geospatial Data Scientist**  <br> *California State University, Monterey Bay (CSUMB)*  <br> *2025–present*  <br> *Seaside, CA*  | 🎓 **PhD, Environmental Systems**  <br> *University of California, Merced* |
-| 💼 **Senior Analyst**  <br> *Environmental Defense Fund (EDF)*  <br> *2023–2025*  <br> *San Francisco, CA*  | 🎓 **MS, Economics (Agricultural Focus)**  <br> *Colegio de Postgraduados*  <br> 🎓 **BS, Economics (Agricultural Focus)**  <br> *Universidad Autónoma Chapingo* |
+## **Experience**                         ## **Education**
+
+| 💼 **Applied Geospatial Data Scientist**  <br> *California State University, Monterey Bay (CSUMB)*  <br> *2025–present*  <br> *Seaside, CA*  <br><br> 💼 **Senior Analyst**  <br> *Environmental Defense Fund (EDF)*  <br> *2023–2025*  <br> *San Francisco, CA* | 🎓 **PhD, Environmental Systems**  <br> *University of California, Merced*  <br><br> 🎓 **MS, Economics (Agricultural Focus)**  <br> *Colegio de Postgraduados*  <br><br> 🎓 **BS, Economics (Agricultural Focus)**  <br> *Universidad Autónoma Chapingo* |
 
 <!-- <div class="container">
   <div class="row justify-content-between">
