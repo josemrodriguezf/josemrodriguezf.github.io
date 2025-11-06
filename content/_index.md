@@ -48,7 +48,7 @@ sections:
   - block: markdown
     id: current-project
     content:
-      title: 'Current Project'
+      title: 'Current Research'
       text: |-
         <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
           <div style="flex: 1; text-align: left;">

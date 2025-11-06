@@ -10,7 +10,7 @@ main:
   - name: Research Keywords
     url: '#research-keywords'
     weight: 20
-  - name: Current Project
+  - name: Current Research
     url: '#current-project'  
     weight: 30
   - name: Recent Publications
