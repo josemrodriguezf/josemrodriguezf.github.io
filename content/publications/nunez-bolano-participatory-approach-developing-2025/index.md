@@ -5,7 +5,7 @@ title: A participatory approach for developing a geospatial toolkit for mapping 
 authors:
 - Yelenka Nuñez-Bolaño
 - Humberto Flores-Landeros
-- José M. Rodríguez-Flores
+- admin
 - Angel S. Fernandez-Bou
 - Josué Medellín-Azuara
 - Thomas C. Harmon

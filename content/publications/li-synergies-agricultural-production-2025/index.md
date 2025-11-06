@@ -5,7 +5,7 @@ title: Synergies Between Agricultural Production and Shorebird Conservation With
 authors:
 - Liying Li
 - Spencer Cole
-- José M. Rodriguez‐Flores
+- admin
 - Erin Hestir
 - Daniel Fink
 - Joshua H. Viers
