@@ -46,8 +46,8 @@ sections:
     design:
       view: card
     
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
   # - block: collection
   #   id: papers
   #   content:
