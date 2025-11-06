@@ -29,18 +29,15 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  # - block: markdown
-  #   content:
-  #     title: ':bicyclist: My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       My research focuses on leveraging data to assess the drivers of agricultural water and land use dynamics, evaluate the impacts of drought on agriculture, and understand how water and land management practices influence water budgets across different scales.
-
-  #       The overarching goal of my work is to advance data-driven decision-making that enhances climate resilience and sustainability.
-
-  #       Drawing on an interdisciplinary background, I apply systems thinking to explore the links and feedbacks between environmental and socio-economic systems—analyzing trade-offs and informing strategies for sustainable water  management.
-  #   design:
-  #     columns: '2'
+  - block: markdown
+    content:
+      title: 'Current Projects :bicyclist:'
+      subtitle: ''
+      text: |-
+         Assessing consumptive water use changes from water conservation investments and land transitions in Western US States, trade-offs and implications for basin climate adaptation. 
+    
+    design:
+      columns: '2'
   # - block: collection
   #   id: papers
   #   content:
