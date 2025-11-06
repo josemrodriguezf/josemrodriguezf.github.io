@@ -51,7 +51,7 @@ sections:
               font-size: 0.95rem;
               font-weight: 500;
               color: #333;
-            ">Water Conservation</span>
+            ">Food-Water Systems</span>
             <span style="
               border: 1px solid #ccc;
               border-radius: 25px;
@@ -60,7 +60,7 @@ sections:
               font-size: 0.95rem;
               font-weight: 500;
               color: #333;
-            ">Agriculture</span>
+            ">Irrigation</span>
             <span style="
               border: 1px solid #ccc;
               border-radius: 25px;
@@ -100,7 +100,7 @@ sections:
             <span style="
               border: 1px solid #ccc;
               border-radius: 25px;
-              padding: 0.4rem 0.9rem;
+              padding: 0.4rem 0.9rem;z
               background-color: #f8f8f8;
               font-size: 0.95rem;
               font-weight: 500;
