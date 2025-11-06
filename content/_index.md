@@ -43,7 +43,7 @@ sections:
     design:
       view: card
       spacing:  
-        padding: [-1rem, 0, 0, -1rem]
+        padding: [-1rem, 0, -1rem, 0]
 
   - block: markdown
     id: current-project
@@ -85,7 +85,7 @@ sections:
     design:
       view: citation
       spacing:
-        padding: [-1, 0, 0, -1]
+        padding: [-1rem, 0, -1rem, 0]
   # - block: collection
   #   id: talks
   #   content:
