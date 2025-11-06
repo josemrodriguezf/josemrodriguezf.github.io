@@ -35,11 +35,11 @@ sections:
       text: |-
         <div style="display: flex; align-items: center; justify-content: space-between;">
           <div style="flex: 0 0 40%;">
-            <h3>Current Projects 🚴</h3>
+            <h3>Current Project </h3>
           </div>
           <div style="flex: 1;">
             <p>
-            Assessing consumptive water use changes from farm to basin scale from water conservation investments and land transitions in Western US States, trade-offs and implications for basin's climate adaptation.
+            Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation.
             </p>
           </div>
         </div>
@@ -69,6 +69,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: [0, 0, 0, 0]
   # - block: collection
   #   id: talks
   #   content:
