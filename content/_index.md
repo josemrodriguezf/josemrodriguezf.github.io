@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '2rem'
+  spacing: '1rem'
 
 sections:
   - block: resume-biography-3
@@ -40,7 +40,7 @@ sections:
 
         Drawing on an interdisciplinary background, I apply systems thinking to explore the links and feedbacks between environmental and socio-economic systems—analyzing trade-offs and informing strategies for sustainable water  management.
     design:
-      columns: '2'
+      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
