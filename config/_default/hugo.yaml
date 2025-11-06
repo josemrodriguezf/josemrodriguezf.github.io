@@ -6,7 +6,7 @@
 # Website name
 title: Jose Rodriguez
 # Website URL
-baseURL: 'josemrodriguez.io'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE

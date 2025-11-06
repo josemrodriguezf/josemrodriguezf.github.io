@@ -38,7 +38,7 @@ header:
       text: ''
 
 favicon:
-  icon: '/media/favicon.png'
+  icon: '/assets/media/icons/favicon.png'
 
 
 customSCSS:
