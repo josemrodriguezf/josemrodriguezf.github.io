@@ -40,6 +40,10 @@ header:
 favicon:
   icon: '/media/favicon.png'
 
+
+customSCSS:
+  "/assets/scss/custom.scss"
+
 # Site footer
 footer:
   copyright:
@@ -55,8 +59,6 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-customSCSS:
-  - "scss/custom.scss"
 
 # Site features
 features:
