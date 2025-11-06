@@ -41,9 +41,10 @@ sections:
 
         </p>
     design:
-      # view: card
+      view: card
       spacing:  
-        padding: [-1, 0, 0, -1]
+        padding: [-1rem, 0, 0, -1rem]
+
   - block: markdown
     id: current-project
     content:
