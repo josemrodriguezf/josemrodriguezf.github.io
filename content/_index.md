@@ -31,6 +31,86 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: research-keywords
+    content:
+      title: 'Research Keywords'
+      text: |-
+         <div style="text-align: center; margin-top: 1.5rem;">
+          <h3 style="margin-bottom: 1rem;">Research Keywords</h3>
+          <div style="
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.6rem;
+          ">
+            <span style="
+              border: 1px solid #ccc;
+              border-radius: 25px;
+              padding: 0.4rem 0.9rem;
+              background-color: #f8f8f8;
+              font-size: 0.95rem;
+              font-weight: 500;
+              color: #333;
+            ">Water Conservation</span>
+            <span style="
+              border: 1px solid #ccc;
+              border-radius: 25px;
+              padding: 0.4rem 0.9rem;
+              background-color: #f8f8f8;
+              font-size: 0.95rem;
+              font-weight: 500;
+              color: #333;
+            ">Agriculture</span>
+            <span style="
+              border: 1px solid #ccc;
+              border-radius: 25px;
+              padding: 0.4rem 0.9rem;
+              background-color: #f8f8f8;
+              font-size: 0.95rem;
+              font-weight: 500;
+              color: #333;
+            ">Landscape Transitions</span>
+            <span style="
+              border: 1px solid #ccc;
+              border-radius: 25px;
+              padding: 0.4rem 0.9rem;
+              background-color: #f8f8f8;
+              font-size: 0.95rem;
+              font-weight: 500;
+              color: #333;
+            ">Water Management</span>
+            <span style="
+              border: 1px solid #ccc;
+              border-radius: 25px;
+              padding: 0.4rem 0.9rem;
+              background-color: #f8f8f8;
+              font-size: 0.95rem;
+              font-weight: 500;
+              color: #333;
+            ">Remote Sensing</span>
+            <span style="
+              border: 1px solid #ccc;
+              border-radius: 25px;
+              padding: 0.4rem 0.9rem;
+              background-color: #f8f8f8;
+              font-size: 0.95rem;
+              font-weight: 500;
+              color: #333;
+            ">Climate Change</span>
+            <span style="
+              border: 1px solid #ccc;
+              border-radius: 25px;
+              padding: 0.4rem 0.9rem;
+              background-color: #f8f8f8;
+              font-size: 0.95rem;
+              font-weight: 500;
+              color: #333;
+            ">Hydro-economics</span>
+          </div>
+        </div>
+  design:
+    view: card
+  - block: markdown
     id: current-project
     content:
       title: 'Current Project'

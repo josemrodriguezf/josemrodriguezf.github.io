@@ -46,14 +46,14 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0002-1825-0097
 
-interests:
-  - Water Conservation
-  - Agriculture
-  - Landscape Transitions
-  - Water Management
-  - Remote Sensing
-  - Climate Change
-  - Hydro-economics
+# interests:
+#   - Water Conservation
+#   - Agriculture
+#   - Landscape Transitions
+#   - Water Management
+#   - Remote Sensing
+#   - Climate Change
+#   - Hydro-economics
 
 # education:
 #   - area: PhD Environmental Systems
@@ -171,7 +171,7 @@ I am also interested in collaborative research opportunities and field sites whe
 
 | **Experience** | **Education** |
 |-----------------|----------------|
-| 💼 **Applied Geospatial Data Scientist**  <br> *California State University, Monterey Bay (CSUMB)*  <br> *2025–present*  <br> *Seaside, CA*  <br><br> 💼 **Senior Analyst**  <br> *Environmental Defense Fund (EDF)*  <br> *2023–2025*  <br> *San Francisco, CA* | 🎓 **PhD, Environmental Systems**  <br> *University of California, Merced*  <br> *2019–2023*  <br><br> 🎓 **MS, Economics (Agricultural Focus)**  <br> *Colegio de Postgraduados*  <br> *2016–2018*  <br><br> 🎓 **BS, Economics (Agricultural Focus)**  <br> *Universidad Autónoma Chapingo*  <br> *2012–2015* |
+| 💼 **Applied Geospatial Data Scientist**  <br> *California State University, Monterey Bay (CSUMB)*  <br> *2025–present*  <br> *Seaside, CA*  <br><br> 💼 **Senior Analyst**  <br> *Environmental Defense Fund (EDF)*  <br> *2023–2025*  <br> *San Francisco, CA* | 🎓 **PhD, Environmental Systems**  <br> *University of California Merced*  <br> *2019–2023*  <br><br> 🎓 **MS, Economics (Agricultural Focus)**  <br> *Colegio de Postgraduados*  <br> *2016–2018*  <br><br> 🎓 **BS, Economics (Agricultural Focus)**  <br> *Universidad Autónoma Chapingo*  <br> *2012–2015* |
 
 
 
