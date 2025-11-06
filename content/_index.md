@@ -21,7 +21,7 @@ sections:
       headings:
         about: 'About'
         education: ''
-        interests: ''
+        interests: 'Research Keywords'
     design:
       # Apply a gradient background
       css_class: 'background-color: black; color: white;'
