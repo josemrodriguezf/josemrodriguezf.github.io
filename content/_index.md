@@ -41,7 +41,9 @@ sections:
 
         </p>
     design:
-      view: card
+      # view: card
+      spacing:  
+        padding: [-1, 0, 0, -1]
   - block: markdown
     id: current-project
     content:
@@ -54,9 +56,9 @@ sections:
             </p>
           </div>
         </div>
-    design:
-      view: card
-    
+    # design:
+      # view: card
+
     # design:
     #   columns: '2'
   # - block: collection
