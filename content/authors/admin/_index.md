@@ -169,36 +169,9 @@ I currently work at California State University, Monterey Bay (CSUMB) with the [
 
 I am also interested in collaborative research opportunities and field sites where these conservation strategies can be tested and evaluated to better understand their real-world impacts.
 
-| ##**Experience** | ##**Education** |
-|-----------------|---------------|
-| 💼 **Applied Geospatial Data Scientist**  <br> *California State University, Monterey Bay (CSUMB)*  <br> *2025–present*  <br> *Seaside, CA*  | 🎓 **PhD, Environmental Systems**  <br> *University of California, Merced* |
-| 💼 **Senior Analyst**  <br> *Environmental Defense Fund (EDF)*  <br> *2023–2025*  <br> *San Francisco, CA*  | 🎓 **MS, Economics (Agricultural Focus)**  <br> *Colegio de Postgraduados*  <br> 🎓 **BS, Economics (Agricultural Focus)**  <br> *Universidad Autónoma Chapingo* |
-
-<!-- <div class="container">
-  <div class="row justify-content-between">
-    <div class="col">
-      <h3>Experience</h3>
-        <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Applied Geospatial Data Scientist, CSUMB, 2025-present</li>
-        <li><span class="portrait-title"><h3>Saside, CA</h3></li>
-        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Senior Analyst, Environmental Defense Fund, 2023-2025</li>
-        <li><span class="portrait-title"><h3>San Francisco, CA</h3></span></li>
-        </ul>
-    </div>
-    <div class="col">
-      <h3>Education</h3>
-        <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>PhD Environmental Systems, 2023</li>
-        <li><span class="portrait-title"><h3>University of California Merced</h3></li>
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Economics (Ag Focus), 2018</li>
-        <li><span class="portrait-title"><h3>Colegio de Postgraduados</h3></li>
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Economics (Ag Focus), 2015</li>
-        <li><span class="portrait-title"><h3>Universidad Autonoma Chapingo</h3></li>
-        </ul>
-    </div>
-  </div>
-</div> -->
-
+| **Experience** | **Education** |
+|-----------------|----------------|
+| 💼 **Applied Geospatial Data Scientist**  <br> *California State University, Monterey Bay (CSUMB)*  <br> *2025–present*  <br> *Seaside, CA*  <br><br> 💼 **Senior Analyst**  <br> *Environmental Defense Fund (EDF)*  <br> *2023–2025*  <br> *San Francisco, CA* | 🎓 **PhD, Environmental Systems**  <br> *University of California, Merced*  <br> *2019–2023*  <br><br> 🎓 **MS, Economics (Agricultural Focus)**  <br> *Colegio de Postgraduados*  <br> *2016–2018*  <br><br> 🎓 **BS, Economics (Agricultural Focus)**  <br> *Universidad Autónoma Chapingo*  <br> *2012–2015* |
 
 
 
