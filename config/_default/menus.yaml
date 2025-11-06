@@ -4,15 +4,17 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: ''
-    url: /
+  - name: 'About'
+    url: #about
     weight: 7
-  # - name: Papers
-  #   url: /#papers
-  #   weight: 11
-  # - name: Talks
-  #   url: /#talks
-  #   weight: 12
+  - name: Research Keywords
+    url: /#research-keywords
+    weight: 11
+  - name: Current Project
+    url: /#current-project  
+  - name: Recent Publications
+    url: /#recent-publications
+    weight: 12
   # - name: News
   #   url: /#news
   #   weight: 13

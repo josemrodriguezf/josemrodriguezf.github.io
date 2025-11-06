@@ -31,15 +31,12 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: ''
+      title: 'Current Project'
       text: |-
-        <div style="display: flex; align-items: center; justify-content: space-between;">
-          <div style="flex: 0 0 40%;">
-            <h3>Current Project </h3>
-          </div>
-          <div style="flex: 1;">
-            <p>
-            Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation.
+        <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
+          <div style="flex: 1; text-align: left;">
+            <p style="margin: 0;">
+              Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation.
             </p>
           </div>
         </div>
