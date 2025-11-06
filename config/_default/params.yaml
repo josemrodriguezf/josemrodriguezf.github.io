@@ -38,7 +38,7 @@ header:
       text: ''
 
 favicon:
-  icon: "media/favicon.png"
+  icon: '/media/favicon.png'
 
 # Site footer
 footer:
