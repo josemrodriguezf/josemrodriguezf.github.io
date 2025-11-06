@@ -46,14 +46,14 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0002-1825-0097
 
-interests:
-  - Water Conservation
-  - Agriculture
-  - Landscape Transitions
-  - Water Management
-  - Remote Sensing
-  - Climate Change
-  - Hydro-economics
+# interests:
+#   - Water Conservation
+#   - Agriculture
+#   - Landscape Transitions
+#   - Water Management
+#   - Remote Sensing
+#   - Climate Change
+#   - Hydro-economics
 
 # education:
 #   - area: PhD Environmental Systems
@@ -194,6 +194,6 @@ I am also interested in collaborative research opportunities and field sites whe
   </div>
 </div>
 
-{style="text-align: justify;"}
+
 
 
