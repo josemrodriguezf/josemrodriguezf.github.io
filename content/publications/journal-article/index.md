@@ -1,82 +1,75 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+title: "Recent Publications"
+summary: "Selected peer-reviewed articles on land and water management, multibenefit land repurposing, and climate resilience."
+date: "2025-09-10T00:00:00Z"
+type: publication
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publications:
+  - title: "Cropland repurposing as a tool for water sustainability and just land transition in California: review and best practices"
+    authors:
+      - Angel Santiago Fernandez-Bou
+      - Jose M. Rodriguez-Flores
+      - J. Pablo Ortiz-Partida
+      - Amanda Fencl
+      - Leticia M. Classen-Rodriguez
+      - ...
+    publication: "*Frontiers in Water*, 7"
+    doi: "10.3389/frwa.2025.1510413"
+    url: "https://www.frontiersin.org/articles/10.3389/frwa.2025.1510413/full"
+    date: "2025-06-26"
+    abstract: "A systems-level, co-produced framework of best practices for cropland repurposing in California to achieve socio-environmental and economic benefits while supporting water sustainability and community resilience."
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+  - title: "Synergies Between Agricultural Production and Shorebird Conservation With Climate Change in the Central Valley, California, With Optimized Water Allocation and Multi-Benefit Land Use"
+    authors:
+      - Liying Li
+      - Spencer Cole
+      - José M. Rodriguez-Flores
+      - Erin Hestir
+      - Daniel Fink
+      - Joshua H. Viers
+      - Josue Medellin-Azuara
+      - Martha Conklin
+      - Thomas Harmon
+    publication: "*Global Change Biology*, 31(6)"
+    doi: "10.1111/gcb.70304"
+    url: "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70304"
+    date: "2025-06-01"
+    abstract: "Demonstrates that agricultural water and land use can synergize with shorebird conservation in California’s Central Valley through optimized water allocation and strategic land management under climate change."
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+  - title: "A participatory approach for developing a geospatial toolkit for mapping the suitability of California’s Multibenefit Land Repurposing Program (MLRP) in support of groundwater sustainability"
+    authors:
+      - Yelenka Nuñez-Bolaño
+      - Humberto Flores-Landeros
+      - José M. Rodríguez-Flores
+      - Angel S. Fernandez-Bou
+      - Josué Medellín-Azuara
+      - Thomas C. Harmon
+    publication: "*Frontiers in Water*, 7"
+    doi: "10.3389/frwa.2025.1539834"
+    url: "https://www.frontiersin.org/articles/10.3389/frwa.2025.1539834/full"
+    date: "2025-05-09"
+    abstract: "Describes a collaborative, open-source geospatial toolkit for California’s MLRP to guide multicriteria land repurposing decisions supporting groundwater sustainability and multiple community benefits."
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+  - title: "Enhancing water security and landscape resilience through multibenefit land repurposing"
+    authors:
+      - Gopal Penny
+      - José M. Rodríguez-Flores
+      - Angel Santiago Fernandez-Bou
+      - Elizabeth A. Koebele
+      - Anna Schiller
+      - Divya Solomon
+      - Katie Carlson
+      - Leticia Classen-Rodriguez
+      - Molly Daniels
+      - Robyn Grimm
+      - Maurice Hall
+      - Michael Kiparsky
+      - Stephanie Mercado
+      - Karina Mudd
+      - Sonia Sanchez
+    publication: "*Frontiers in Water*, 7"
+    doi: "10.3389/frwa.2025.1620626"
+    url: "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2025.1620626/full"
+    date: "2025-09-03"
+    abstract: "Conceptual framework illustrating how multibenefit land repurposing can enhance water security, promote polycentric governance, and foster resilient social-ecological systems in California."
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
