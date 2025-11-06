@@ -3,7 +3,7 @@ title: 'Cropland repurposing as a tool for water sustainability and just land tr
   in California: review and best practices'
 authors:
 - Angel Santiago Fernandez-Bou
-- Jose M. Rodriguez-Flores
+- admin
 - J. Pablo Ortiz-Partida
 - Amanda Fencl
 - Leticia M. Classen-Rodriguez
@@ -12,50 +12,7 @@ authors:
 - Val Zayden Schull
 - Kristin B. Dobbin
 - Gopal Penny
-- Nataly Escobedo Garcia
-- Juliet Christian-Smith
-- Sonia Sanchez
-- Adam J. Livingston
-- Aidee Guzman
-- Angela Islas
-- Anna I. Gurevitz
-- Arohi Sharma
-- Austin Stevenot
-- Catherine Van Dyke
-- Chantelise Pells
-- Daniel O'Connell
-- Daniel Toews
-- Elena Bischak
-- Eliseo Gamiño
-- Emily Rose Waring
-- Felipe Pérez
-- Francisco Benitez-Altuna
-- Gustavo Facincani Dourado
-- Humberto Flores-Landeros
-- Jamie Fanous
-- Janaki Anagha
-- Jessi Snyder
-- John T. Abatzoglou
-- Jose Armando Munguia
-- Jose Luis Susa-Rincon
-- Jovany Barajas
-- Julie Kalansky
-- Karina Mudd
-- Kjia Rivers
-- Lun Jiang
-- Minerva Uribe-Robles
-- Minkah Taharkah
-- Omanjana Goswami
-- Rebecca Ryals
-- Reyn Akiona
-- Rosa Cuppari
-- Samuel Sandoval-Solis
-- Shijia Pan
-- Stefanie Helmrich
-- Tessa Salzman
-- Tom Corringham
-- Vicky Espinoza
-- Yelenka Nuñez-Bolaño
+- ...
 date: '2025-06-26'
 publishDate: '2025-11-06T00:50:40.167924Z'
 publication_types:
