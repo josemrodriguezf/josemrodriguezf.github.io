@@ -35,79 +35,11 @@ sections:
     content:
       title: 'Research Keywords'
       text: |-
-         <div style="text-align: center; margin-top: 1.5rem;">
-          <h3 style="margin-bottom: 1rem;">Research Keywords</h3>
-          <div style="
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 0.6rem;
-          ">
-            <span style="
-              border: 1px solid #ccc;
-              border-radius: 25px;
-              padding: 0.4rem 0.9rem;
-              background-color: #f8f8f8;
-              font-size: 0.95rem;
-              font-weight: 500;
-              color: #333;
-            ">Food-Water Systems</span>
-            <span style="
-              border: 1px solid #ccc;
-              border-radius: 25px;
-              padding: 0.4rem 0.9rem;
-              background-color: #f8f8f8;
-              font-size: 0.95rem;
-              font-weight: 500;
-              color: #333;
-            ">Irrigation</span>
-            <span style="
-              border: 1px solid #ccc;
-              border-radius: 25px;
-              padding: 0.4rem 0.9rem;
-              background-color: #f8f8f8;
-              font-size: 0.95rem;
-              font-weight: 500;
-              color: #333;
-            ">Landscape Transitions</span>
-            <span style="
-              border: 1px solid #ccc;
-              border-radius: 25px;
-              padding: 0.4rem 0.9rem;
-              background-color: #f8f8f8;
-              font-size: 0.95rem;
-              font-weight: 500;
-              color: #333;
-            ">Water Management</span>
-            <span style="
-              border: 1px solid #ccc;
-              border-radius: 25px;
-              padding: 0.4rem 0.9rem;
-              background-color: #f8f8f8;
-              font-size: 0.95rem;
-              font-weight: 500;
-              color: #333;
-            ">Remote Sensing</span>
-            <span style="
-              border: 1px solid #ccc;
-              border-radius: 25px;
-              padding: 0.4rem 0.9rem;
-              background-color: #f8f8f8;
-              font-size: 0.95rem;
-              font-weight: 500;
-              color: #333;
-            ">Climate Change</span>
-            <span style="
-              border: 1px solid #ccc;
-              border-radius: 25px;
-              padding: 0.4rem 0.9rem;z
-              background-color: #f8f8f8;
-              font-size: 0.95rem;
-              font-weight: 500;
-              color: #333;
-            ">Hydro-economics</span>
-          </div>
-        </div>
+         <p align="center">
+          
+        `Water Conservation` `Agriculture` `Landscape Transitions` `Water Management` `Remote Sensing` `Climate Change` `Hydro-economics`
+
+        </p>
   design:
     view: card
   - block: markdown
