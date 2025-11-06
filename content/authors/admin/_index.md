@@ -46,14 +46,14 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0002-1825-0097
 
-# interests:
-#   - Water Conservation
-#   - Agriculture
-#   - Landscape Transitions
-#   - Water Management
-#   - Remote Sensing
-#   - Climate Change
-#   - Hydro-economics
+interests:
+  - Water Conservation
+  - Agriculture
+  - Landscape Transitions
+  - Water Management
+  - Remote Sensing
+  - Climate Change
+  - Hydro-economics
 
 # education:
 #   - area: PhD Environmental Systems
@@ -171,60 +171,23 @@ I am also interested in collaborative research opportunities and field sites whe
 
 <div class="container">
   <div class="row justify-content-between">
-    <!-- Experience -->
-    <div class="col-md-6">
+    <div class="col">
       <h3>Experience</h3>
-      <ul class="fa-ul">
-        <li>
-          <span class="fa-li"><i class="fas fa-briefcase"></i></span>
-          <strong>California State University, Monterey Bay (CSUMB)</strong>, 2025–present
-        </li>
-        <li><span class="portrait-title"><h4>California, USA</h4></span></li>
-        <li>
-          <span class="fa-li"><i class="fas fa-briefcase"></i></span>
-          <strong>Senior Analyst, Environmental Defense Fund (EDF)</strong>, 2023–2025
-        </li>
-        <li><span class="portrait-title"><h4>San Francisco, CA, USA</h4></span></li>
-      </ul>
+        <ul class="fa-ul">
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Applied Geospatial Data Scientist, CSUMB, 2025-present, Saside, CA</li>
+        <li><span class="portrait-title"><h3></h3></li>
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Senior Analyst, Environmental Defense Fund, 2023-2025</li>
+        <li><span class="portrait-title"><h3>San Francisco, CA</h3></span></li>
+        </ul>
     </div>
-
-    <!-- Education -->
-    <div class="col-md-6">
+    <div class="col">
       <h3>Education</h3>
-      <ul class="fa-ul">
-        <li>
-          <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-          <strong>PhD, Environmental Systems</strong>, UC Merced
-        </li>
-        <li>
-          <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-          <strong>MS, Economics (Agricultural Focus)</strong>, Colegio de Postgraduados
-        </li>
-        <li>
-          <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-          <strong>BS, Economics (Agricultural Focus)</strong>, Universidad Autónoma Chapingo
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <hr class="my-4">
-
-  <!-- Research Keywords -->
-  <div class="row justify-content-between">
-    <div class="col-md-4">
-      <h3>Research Keywords</h3>
-    </div>
-    <div class="col-md-8">
-      <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-leaf"></i></span>Water Conservation</li>
-        <li><span class="fa-li"><i class="fas fa-tractor"></i></span>Agriculture</li>
-        <li><span class="fa-li"><i class="fas fa-seedling"></i></span>Landscape Transitions</li>
-        <li><span class="fa-li"><i class="fas fa-tint"></i></span>Water Management</li>
-        <li><span class="fa-li"><i class="fas fa-satellite"></i></span>Remote Sensing</li>
-        <li><span class="fa-li"><i class="fas fa-cloud-sun-rain"></i></span>Climate Change</li>
-        <li><span class="fa-li"><i class="fas fa-chart-line"></i></span>Hydro-economics</li>
-      </ul>
+        <ul class="fa-ul">
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Structural Engineering, 2015</li>
+        <li><span class="portrait-title"><h3>Stanford University</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Civil Engineering, 2013</li>
+        <li><span class="portrait-title"><h3>University of California, Berkeley</h3></li>
+        </ul>
     </div>
   </div>
 </div>
