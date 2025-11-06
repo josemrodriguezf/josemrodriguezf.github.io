@@ -46,56 +46,56 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0002-1825-0097
 
-interests:
-  - Water Conservation
-  - Agriculture
-  - Landscape Transitions
-  - Water Management
-  - Remote Sensing
-  - Climate Change
-  - Hydro-economics
+# interests:
+#   - Water Conservation
+#   - Agriculture
+#   - Landscape Transitions
+#   - Water Management
+#   - Remote Sensing
+#   - Climate Change
+#   - Hydro-economics
 
-education:
-  - area: PhD Environmental Systems
-    institution: UC Merced
-    icon: ""
-    # date_start: 2015-09-01
-    # date_end: 2019-06-30
-    # summary: |
-    #   Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com/thesis.pdf'
-  - area: MS Economics (Ag Focus)
-    institution: Colegio de Postgraduados 
-    icon: ""
-    # date_start: 2013-09-01
-    # date_end: 2015-05-31
-    # summary: 
-  - area: BS Economics (Ag Focus)
-    institution: Universidad Autonoma Chapingo
-    icon: ""
-    # date_start: 2009-09-01
-    # date_end: 2013-05-31
-    # summary: |
+# education:
+#   - area: PhD Environmental Systems
+#     institution: UC Merced
+#     icon: ""
+#     # date_start: 2015-09-01
+#     # date_end: 2019-06-30
+#     # summary: |
+#     #   Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+#     # button:
+#     #   text: 'Read Thesis'
+#     #   url: 'https://example.com/thesis.pdf'
+#   - area: MS Economics (Ag Focus)
+#     institution: Colegio de Postgraduados 
+#     icon: ""
+#     # date_start: 2013-09-01
+#     # date_end: 2015-05-31
+#     # summary: 
+#   - area: BS Economics (Ag Focus)
+#     institution: Universidad Autonoma Chapingo
+#     icon: ""
+#     # date_start: 2009-09-01
+#     # date_end: 2013-05-31
+#     # summary: |
  
 
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: 
+# work:
+#   - position: Senior AI Research Scientist
+#     company_name: Meta AI
+#     company_url: 'https://ai.meta.com/'
+#     icon: ''
+#     date_start: 2020-01-01
+#     date_end: ''
+#     summary: |2-
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+#   - position: AI Research Intern
+#     company_name: OpenAI
+#     company_url: 'https://openai.com/'
+#     icon: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -168,5 +168,67 @@ work:
 I currently work at California State University, Monterey Bay (CSUMB) with the [OpenET](https://explore.etdata.org/) team. My projects focus on assessing the impacts of water conservation actions in agriculture—such as crop switching, improving irrigation efficiency, fallowing land, and transitioning to non-agricultural uses—and their effects on consumptive water use and overall water budgets. I aim to evaluate the trade-offs between these actions and agricultural productivity, economic outcomes, and sustainability, as well as their contributions to the long-term resilience of basins and water systems. My goal is to inform water managers and policy makers on what types of water and land conservaton investments can achieve these outcomes. 
 
 I am also interested in collaborative research opportunities and field sites where these conservation strategies can be tested and evaluated to better understand their real-world impacts.
+
+<div class="container">
+  <div class="row justify-content-between">
+    <!-- Experience -->
+    <div class="col-md-6">
+      <h3>Experience</h3>
+      <ul class="fa-ul">
+        <li>
+          <span class="fa-li"><i class="fas fa-briefcase"></i></span>
+          <strong>California State University, Monterey Bay (CSUMB)</strong>, 2025–present
+        </li>
+        <li><span class="portrait-title"><h4>California, USA</h4></span></li>
+        <li>
+          <span class="fa-li"><i class="fas fa-briefcase"></i></span>
+          <strong>Senior Analyst, Environmental Defense Fund (EDF)</strong>, 2023–2025
+        </li>
+        <li><span class="portrait-title"><h4>San Francisco, CA, USA</h4></span></li>
+      </ul>
+    </div>
+
+    <!-- Education -->
+    <div class="col-md-6">
+      <h3>Education</h3>
+      <ul class="fa-ul">
+        <li>
+          <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+          <strong>PhD, Environmental Systems</strong>, UC Merced
+        </li>
+        <li>
+          <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+          <strong>MS, Economics (Agricultural Focus)</strong>, Colegio de Postgraduados
+        </li>
+        <li>
+          <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+          <strong>BS, Economics (Agricultural Focus)</strong>, Universidad Autónoma Chapingo
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <hr class="my-4">
+
+  <!-- Research Keywords -->
+  <div class="row justify-content-between">
+    <div class="col-md-4">
+      <h3>Research Keywords</h3>
+    </div>
+    <div class="col-md-8">
+      <ul class="fa-ul">
+        <li><span class="fa-li"><i class="fas fa-leaf"></i></span>Water Conservation</li>
+        <li><span class="fa-li"><i class="fas fa-tractor"></i></span>Agriculture</li>
+        <li><span class="fa-li"><i class="fas fa-seedling"></i></span>Landscape Transitions</li>
+        <li><span class="fa-li"><i class="fas fa-tint"></i></span>Water Management</li>
+        <li><span class="fa-li"><i class="fas fa-satellite"></i></span>Remote Sensing</li>
+        <li><span class="fa-li"><i class="fas fa-cloud-sun-rain"></i></span>Climate Change</li>
+        <li><span class="fa-li"><i class="fas fa-chart-line"></i></span>Hydro-economics</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 
 
