@@ -41,7 +41,7 @@ sections:
 
         </p>
     design:
-      view: card
+      view: compact
       spacing:  
         padding: [-1rem, 0, -1rem, 0]
 
@@ -53,7 +53,7 @@ sections:
         <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
           <div style="flex: 1; text-align: left;">
             <p style="margin: 0;">
-              Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation and irrigation efficency investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation.
+              Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation and irrigation efficency investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation. Using remote sensing ET (OpenET) data, spatial analysis and modeling tools. 
             </p>
           </div>
         </div>
