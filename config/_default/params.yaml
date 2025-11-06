@@ -37,13 +37,6 @@ header:
     logo:
       text: ''
 
-favicon:
-  icon: '/assets/media/icons/custom/favicon.png'
-
-
-customSCSS:
-  "/assets/scss/custom.scss"
-
 # Site footer
 footer:
   copyright:
