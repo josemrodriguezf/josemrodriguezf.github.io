@@ -37,7 +37,7 @@ sections:
       text: |-
         <p align="left">
           
-        [Food-Water Systems] [Irrigation] [Landscape Transitions] [Water Management] [Remote Sensing] [Climate Change] [Hydro-economics] [Drought] [Cropland Repurposing]
+        [Food-Water Systems] [Irrigation] [Hydro-economics] [Landscape Transitions] [Water Management] [Remote Sensing] [Climate Change] [Drought] [Cropland Repurposing] [Spatial Analysis] [Optimization] [Statistical Modeling]
 
         </p>
     design:
