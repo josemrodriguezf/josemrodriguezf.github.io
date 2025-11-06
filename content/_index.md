@@ -1,123 +1,123 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
-type: landing
+title: "Recent Publications"
+summary: "Selected peer-reviewed articles on land and water management, multibenefit land repurposing, and climate resilience."
+date: "2025-09-10T00:00:00Z"
+type: publication
 
-design:
-  # Default section spacing
-  spacing: '2rem'
+publications:
+  - title: "Cropland repurposing as a tool for water sustainability and just land transition in California: review and best practices"
+    authors:
+      - Angel Santiago Fernandez-Bou
+      - Jose M. Rodriguez-Flores
+      - J. Pablo Ortiz-Partida
+      - Amanda Fencl
+      - Leticia M. Classen-Rodriguez
+      - Vivian Yang
+      - Emily Williams
+      - Val Zayden Schull
+      - Kristin B. Dobbin
+      - Gopal Penny
+      - Nataly Escobedo Garcia
+      - Juliet Christian-Smith
+      - Sonia Sanchez
+      - Adam J. Livingston
+      - Aidee Guzman
+      - Angela Islas
+      - Anna I. Gurevitz
+      - Arohi Sharma
+      - Austin Stevenot
+      - Catherine Van Dyke
+      - Chantelise Pells
+      - Daniel O'Connell
+      - Daniel Toews
+      - Elena Bischak
+      - Eliseo Gamiño
+      - Emily Rose Waring
+      - Felipe Pérez
+      - Francisco Benitez-Altuna
+      - Gustavo Facincani Dourado
+      - Humberto Flores-Landeros
+      - Jamie Fanous
+      - Janaki Anagha
+      - Jessi Snyder
+      - John T. Abatzoglou
+      - Jose Armando Munguia
+      - Jose Luis Susa-Rincon
+      - Jovany Barajas
+      - Julie Kalansky
+      - Karina Mudd
+      - Kjia Rivers
+      - Lun Jiang
+      - Minerva Uribe-Robles
+      - Minkah Taharkah
+      - Omanjana Goswami
+      - Rebecca Ryals
+      - Reyn Akiona
+      - Rosa Cuppari
+      - Samuel Sandoval-Solis
+      - Shijia Pan
+      - Stefanie Helmrich
+      - Tessa Salzman
+      - Tom Corringham
+      - Vicky Espinoza
+      - Yelenka Nuñez-Bolaño
+    publication: "*Frontiers in Water*, 7"
+    doi: "10.3389/frwa.2025.1510413"
+    url: "https://www.frontiersin.org/articles/10.3389/frwa.2025.1510413/full"
+    date: "2025-06-26"
+    abstract: "A systems-level, co-produced framework of best practices for cropland repurposing in California to achieve socio-environmental and economic benefits while supporting water sustainability and community resilience."
 
-sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
-    design:
-      # Apply a gradient background
-      css_class: 'background-color: black; color: white;'
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: ':bicyclist: My Research'
-      subtitle: ''
-      text: |-
-        My research focuses on leveraging data to assess the drivers of agricultural water and land use dynamics, evaluate the impacts of drought on agriculture, and understand how water and land management practices influence water budgets across different scales.
+  - title: "Synergies Between Agricultural Production and Shorebird Conservation With Climate Change in the Central Valley, California, With Optimized Water Allocation and Multi-Benefit Land Use"
+    authors:
+      - Liying Li
+      - Spencer Cole
+      - José M. Rodriguez-Flores
+      - Erin Hestir
+      - Daniel Fink
+      - Joshua H. Viers
+      - Josue Medellin-Azuara
+      - Martha Conklin
+      - Thomas Harmon
+    publication: "*Global Change Biology*, 31(6)"
+    doi: "10.1111/gcb.70304"
+    url: "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70304"
+    date: "2025-06-01"
+    abstract: "Demonstrates that agricultural water and land use can synergize with shorebird conservation in California’s Central Valley through optimized water allocation and strategic land management under climate change."
 
-        The overarching goal of my work is to advance data-driven decision-making that enhances climate resilience and sustainability.
+  - title: "A participatory approach for developing a geospatial toolkit for mapping the suitability of California’s Multibenefit Land Repurposing Program (MLRP) in support of groundwater sustainability"
+    authors:
+      - Yelenka Nuñez-Bolaño
+      - Humberto Flores-Landeros
+      - José M. Rodríguez-Flores
+      - Angel S. Fernandez-Bou
+      - Josué Medellín-Azuara
+      - Thomas C. Harmon
+    publication: "*Frontiers in Water*, 7"
+    doi: "10.3389/frwa.2025.1539834"
+    url: "https://www.frontiersin.org/articles/10.3389/frwa.2025.1539834/full"
+    date: "2025-05-09"
+    abstract: "Describes a collaborative, open-source geospatial toolkit for California’s MLRP to guide multicriteria land repurposing decisions supporting groundwater sustainability and multiple community benefits."
 
-        Drawing on an interdisciplinary background, I apply systems thinking to explore the links and feedbacks between environmental and socio-economic systems—analyzing trade-offs and informing strategies for sustainable water  management.
-    design:
-      columns: '2'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publications
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - events
-  #   design:
-  #     view: card
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: ''
-    #   # Page type to display. E.g. post, talk, publication...
-    #   page_type: blog
-    #   # Choose how many pages you would like to display (0 = all pages)
-    #   count: 5
-    #   # Filter on criteria
-    #   filters:
-    #     author: ''
-    #     category: ''
-    #     tag: ''
-    #     exclude_featured: false
-    #     exclude_future: false
-    #     exclude_past: false
-    #     publication_type: ''
-    #   # Choose how many pages you would like to offset by
-    #   offset: 0
-    #   # Page order: descending (desc) or ascending (asc) date.
-    #   order: desc
-    # design:
-    #   # Choose a layout view
-    #   view: card
-    #   # Reduce spacing
-    #   spacing:
-    #     padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
+  - title: "Enhancing water security and landscape resilience through multibenefit land repurposing"
+    authors:
+      - Gopal Penny
+      - José M. Rodríguez-Flores
+      - Angel Santiago Fernandez-Bou
+      - Elizabeth A. Koebele
+      - Anna Schiller
+      - Divya Solomon
+      - Katie Carlson
+      - Leticia Classen-Rodriguez
+      - Molly Daniels
+      - Robyn Grimm
+      - Maurice Hall
+      - Michael Kiparsky
+      - Stephanie Mercado
+      - Karina Mudd
+      - Sonia Sanchez
+    publication: "*Frontiers in Water*, 7"
+    doi: "10.3389/frwa.2025.1620626"
+    url: "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2025.1620626/full"
+    date: "2025-09-03"
+    abstract: "Conceptual framework illustrating how multibenefit land repurposing can enhance water security, promote polycentric governance, and foster resilient social-ecological systems in California."
 ---
