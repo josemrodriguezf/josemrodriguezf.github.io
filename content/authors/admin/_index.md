@@ -174,8 +174,8 @@ I am also interested in collaborative research opportunities and field sites whe
     <div class="col">
       <h3>Experience</h3>
         <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Applied Geospatial Data Scientist, CSUMB, 2025-present, Saside, CA</li>
-        <li><span class="portrait-title"><h3></h3></li>
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Applied Geospatial Data Scientist, CSUMB, 2025-present</li>
+        <li><span class="portrait-title"><h3>Saside, CA</h3></li>
         <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Senior Analyst, Environmental Defense Fund, 2023-2025</li>
         <li><span class="portrait-title"><h3>San Francisco, CA</h3></span></li>
         </ul>
@@ -183,10 +183,12 @@ I am also interested in collaborative research opportunities and field sites whe
     <div class="col">
       <h3>Education</h3>
         <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Structural Engineering, 2015</li>
-        <li><span class="portrait-title"><h3>Stanford University</h3></li>
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Civil Engineering, 2013</li>
-        <li><span class="portrait-title"><h3>University of California, Berkeley</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>PhD Environmental Systems, 2023</li>
+        <li><span class="portrait-title"><h3>University of California Merced</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Economics (Ag Focus), 2018</li>
+        <li><span class="portrait-title"><h3>Colegio de Postgraduados</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Economics (Ag Focus), 2015</li>
+        <li><span class="portrait-title"><h3>Universidad Autonoma Chapingo</h3></li>
         </ul>
     </div>
   </div>
