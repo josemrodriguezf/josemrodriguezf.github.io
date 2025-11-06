@@ -35,9 +35,9 @@ sections:
     content:
       title: 'Research Keywords'
       text: |-
-        <p align="center">
+        <p align="left">
           
-        `Food-Water Systems` `Irrigation` `Landscape Transitions` `Water Management` `Remote Sensing` `Climate Change` `Hydro-economics` `Drought`
+        [Food-Water Systems] [Irrigation] [Landscape Transitions] [Water Management] [Remote Sensing] [Climate Change] [Hydro-economics] [Drought] [Cropland Repurposing]
 
         </p>
     design:
