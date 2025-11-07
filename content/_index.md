@@ -38,7 +38,6 @@ sections:
         <p align="left">
           
         [Food-Water Systems] [Irrigation] [Hydro-economics] [Climate Resilience] [Water Management] [Remote Sensing] [Climate Change] [Drought] [Cropland Repurposing] [Spatial Analysis] [Optimization] [Statistical Modeling] [ET] [Socio-hydrology]
-
         </p>
     design:
       view: card
@@ -53,9 +52,9 @@ sections:
         <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
           <div style="flex: 1; text-align: left;">
             <p style="margin: 0;">
-             My current research focuses on assessing water conservation and irrigation efficiency investments, as well as land transitions across the western United States, and their benefits in reducing consumptive water use to advance water sustainability and climate resilience goals. I approach this work at multiple scales, from individual farms to entire basins, and also evaluate trade-offs with productivity, revenue, and other management objectives. A core component of my research is understanding the environmental, economic, and social conditions that enable these investments to achieve their intended outcomes. I use remote sensing–based evapotranspiration (OpenET) data, along with other datasets, statistical methods, and modeling tools.
- 
+             My current research focuses on assessing water conservation and irrigation efficiency investments, as well as land transitions across the western United States, and their benefits in reducing consumptive water use to advance water sustainability and climate resilience goals. I approach this work at multiple scales, from individual farms to entire basins, and also evaluate trade-offs with productivity, revenue, and other management objectives. A core component of my research is understanding the environmental, economic, and social conditions that enable these investments to achieve their intended outcomes. I use remote sensing–based evapotranspiration (OpenET) data, along with other datasets, statistical methods, and modeling tools. 
               </p>
+              
           <div style="text-align: center; margin-top: 0.5rem;">
             <img src="/uploads/Image.png" alt="LST" style="width: 100%;  height: auto; border-radius: 8px;">
           </div>
