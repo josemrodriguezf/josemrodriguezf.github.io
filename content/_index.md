@@ -53,7 +53,7 @@ sections:
         <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
           <div style="flex: 1; text-align: left;">
             <p style="margin: 0;">
-              My current research focuses on assessing water conservation and irrigation efficency investments and land transitions across the Western U.S., their benefits in consumptive water use reduction. From individual farms to basin scale water budgets. Also, to evaluate their trade-offs with productivity, revenues and other objectives. To do this I am using remote sensing ET (OpenET) data, spatial analysis and modeling tools. 
+              My current research focuses on assessing water conservation and irrigation efficency investments and land transitions across the Western U.S., and their benefits in consumptive water use reduction to achieve sustainability and climate resilience goals. I approach thisn at multiple scales from individual farms to basins. Also, I aim to evaluate the trade-offs with productivity, revenues and other objectives. To do this I use remote sensing ET (OpenET) data, spatial analysis and modeling tools. 
               </p>
           <div style="text-align: center; margin-top: 0.5rem;">
             <img src="/uploads/Image.png" alt="LST" style="width: 100%;  height: auto; border-radius: 8px;">
