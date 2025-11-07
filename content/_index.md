@@ -53,7 +53,7 @@ sections:
         <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
           <div style="flex: 1; text-align: left;">
             <p style="margin: 0;">
-              Assessing changes in consumptive water use—from farm to basin scale—resulting from water conservation and irrigation efficency investments and land transitions across the Western U.S., and evaluating their trade-offs and implications for basin-scale climate adaptation. Using remote sensing ET (OpenET) data, spatial analysis and modeling tools. 
+              My current research focuses on assessing water conservation and irrigation efficency investments and land transitions across the Western U.S., their benefits in consumptive water use reduction. From individual farms to basin scale water budgets. Also, to evaluate their trade-offs with productivity, revenues and other objectives. To do this I am using remote sensing ET (OpenET) data, spatial analysis and modeling tools. 
               </p>
           <div style="text-align: center; margin-top: 0.5rem;">
             <img src="/uploads/Image.png" alt="LST" style="width: 100%;  height: auto; border-radius: 8px;">
