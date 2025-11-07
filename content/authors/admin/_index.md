@@ -165,9 +165,11 @@ profiles:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I currently work at California State University, Monterey Bay (CSUMB) with the [OpenET](https://explore.etdata.org/) team. My projects focus on assessing the impacts of water conservation actions in agriculture—such as crop switching, improving irrigation efficiency, fallowing land, and transitioning to non-agricultural uses—and their effects on consumptive water use and overall water budgets. I aim to evaluate the trade-offs between these actions and agricultural productivity, economic outcomes, and sustainability, as well as their contributions to the long-term resilience of basins and water systems. My goal is to inform water managers and policy makers on what types of water and land conservaton investments can achieve these outcomes. 
+I currently work at California State University, Monterey Bay (CSUMB) with the [OpenET](https://explore.etdata.org/) team. My projects focus on assessing the impacts of water conservation actions in agriculture—such as crop switching, improving irrigation efficiency, fallowing land, and transitioning to non-agricultural uses—and their effects on consumptive water use and overall water budgets. My overarching goal is to inform water managers and policymakers about which water and land conservation investments most effectively promote long-term sustainability and resilience.
 
-I am also interested in collaborative research opportunities and field sites where these conservation strategies can be tested and evaluated to better understand their real-world impacts.
+ My research takes an interdisciplinary approach to water systems, examining how water and land management strategies can advance groundwater sustainability; understanding the vulnerability of domestic wells; evaluating policies and economic instruments that balance agricultural productivity with groundwater sustainability; and assessing the socioeconomic impacts of drought on agriculture and rural economies. Most recently, my work has focused on cropland repurposing as a strategy to reduce water use and create more resilient landscapes. I have collaborated on multiple publications examining its potential benefits, trade-offs, governance challenges, and tools to support decision-making. 
+
+I am always interested in collaborative research opportunities and case studies where water conservation strategies can be tested and evaluated to better understand their real-world impacts.
 
 | **Experience** | **Education** |
 |-----------------|----------------|
