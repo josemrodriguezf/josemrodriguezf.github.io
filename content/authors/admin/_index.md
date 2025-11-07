@@ -169,7 +169,7 @@ I currently work at California State University, Monterey Bay (CSUMB) with the [
 
  My research takes an interdisciplinary approach to water systems, examining how water and land management strategies can advance groundwater sustainability; understanding the vulnerability of domestic wells; evaluating policies and economic instruments that balance agricultural productivity with groundwater sustainability; and assessing the socioeconomic impacts of drought on agriculture and rural economies. Most recently, my work has focused on cropland repurposing as a strategy to reduce water use and create more resilient landscapes. During my previous job at EDF I supported the implementation of the California Multibenefit Land Repurposing Program. I have collaborated on multiple publications examining its potential benefits, trade-offs, governance challenges, and tools to support decision-making. 
 
-I am interested in collaborative research opportunities, support prof-of-concept projects and applications of water conservation strategies.
+I am interested in collaborative research opportunities, support proof-of-concept projects and applications of water conservation strategies.
 
 | **Experience** | **Education** |
 |-----------------|----------------|
