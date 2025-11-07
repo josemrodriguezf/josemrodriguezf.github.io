@@ -87,7 +87,7 @@ sections:
     design:
       view: citation
       spacing:
-        padding: [-1rem, 0, -1rem, 0]
+        padding: [5rem, 0, -1rem, 0]
   # - block: collection
   #   id: talks
   #   content:
