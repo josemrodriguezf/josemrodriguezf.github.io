@@ -43,7 +43,7 @@ sections:
     design:
       view: card
       spacing:  
-        padding: [0, 0, 0, 0]
+        padding: [5rem, 0, 0, 0]
 
   - block: markdown
     id: current-project
