@@ -12,7 +12,6 @@ authors:
 date: '2026-04-01'
 publication_types:
 - article-journal
-publication: Environmental Research: Water
 volume: 2
 number: 2
 pages: '025006'
