@@ -1,7 +1,7 @@
 ---
 title: Timely drought impact assessment for agriculture using a water–food systems approach
 authors:
-- José M. Rodríguez-Flores
+- admin
 - Spencer A. Cole
 - Josué Medellín-Azuara
 - Alvar Escriva-Bou
